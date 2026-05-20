@@ -86,6 +86,11 @@ Un buen diagrama de cuerpo libre debe incluir:
 - Las dimensiones necesarias para calcular momentos.
 - El sistema de ejes de referencia.
 
+::: {.caja-definicion}
+**Ejemplo Resuelto** Una partículak lñkajdflksdjf ñlsdkjf ñlsdkjñlsdkj flñsjkf ñlsjfk sdkfj .
+:::
+
+
 ## Aplicaciones de la Estática en carreras técnicas
 
 La Estática se aplica en numerosos contextos técnicos, entre ellos:
