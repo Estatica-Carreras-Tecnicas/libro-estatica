@@ -6,13 +6,14 @@ book:
   title: "Estática para Carreras Técnicas"
   subtitle: "Fundamentos, aplicaciones y problemas resueltos"
   author:
-    - "Docente 1"
-    - "Docente 2"
-    - "Docente 3"
-    - "Docente 4"
+    - "Equipo docente de Estática"
   date: "2026"
+  cover-image: cover.png
+  search: true
+  page-navigation: true
   chapters:
     - index.qmd
+    - creditos.qmd
     - 01-fundamentos.qmd
     - 02-vectores.qmd
     - 03-sistemas-fuerzas.qmd
@@ -34,6 +35,4 @@ format:
     theme: cosmo
     toc: true
     number-sections: true
-  pdf:
-    documentclass: scrreprt
-    number-sections: true
+    css: styles.css

@@ -4,6 +4,10 @@
 
 La Estática es una rama de la mecánica que estudia las condiciones bajo las cuales los cuerpos permanecen en equilibrio cuando se encuentran sometidos a la acción de fuerzas. Su importancia en las carreras técnicas radica en que permite analizar estructuras, elementos mecánicos, sistemas de soporte, máquinas simples y componentes constructivos antes de que estos sean diseñados, fabricados o instalados.
 
+::: {.caja-definicion}
+**Definición.** La Estática es la rama de la mecánica que estudia cuerpos en equilibrio bajo la acción de fuerzas.
+:::
+
 En el campo de la ingeniería y la tecnología, la Estática constituye una base fundamental para asignaturas posteriores como Resistencia de Materiales, Mecánica de Materiales, Diseño Estructural, Mecánica de Fluidos, Análisis de Máquinas y Diseño de Elementos Mecánicos.
 
 ## Resultados de aprendizaje

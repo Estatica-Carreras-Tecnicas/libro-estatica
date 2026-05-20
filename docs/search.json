@@ -30,1113 +30,1163 @@
     ]
   },
   {
+    "objectID": "creditos.html",
+    "href": "creditos.html",
+    "title": "2  Créditos del proyecto",
+    "section": "",
+    "text": "2.1 Título de la obra\nEstática para Carreras Técnicas: Fundamentos, aplicaciones y problemas resueltos",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Créditos del proyecto</span>"
+    ]
+  },
+  {
+    "objectID": "creditos.html#equipo-autoral",
+    "href": "creditos.html#equipo-autoral",
+    "title": "2  Créditos del proyecto",
+    "section": "2.2 Equipo autoral",
+    "text": "2.2 Equipo autoral\n\nDocente 1\nDocente 2\nDocente 3\nDocente 4",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Créditos del proyecto</span>"
+    ]
+  },
+  {
+    "objectID": "creditos.html#descripción-del-proyecto",
+    "href": "creditos.html#descripción-del-proyecto",
+    "title": "2  Créditos del proyecto",
+    "section": "2.3 Descripción del proyecto",
+    "text": "2.3 Descripción del proyecto\nEste libro digital abierto ha sido desarrollado como un recurso educativo para fortalecer el aprendizaje de la Estática en carreras técnicas y de ingeniería.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Créditos del proyecto</span>"
+    ]
+  },
+  {
+    "objectID": "creditos.html#licencia",
+    "href": "creditos.html#licencia",
+    "title": "2  Créditos del proyecto",
+    "section": "2.4 Licencia",
+    "text": "2.4 Licencia\nEsta obra se distribuye como recurso educativo abierto bajo una licencia Creative Commons.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Créditos del proyecto</span>"
+    ]
+  },
+  {
     "objectID": "01-fundamentos.html",
     "href": "01-fundamentos.html",
-    "title": "2  Fundamentos de la Estática",
+    "title": "3  Fundamentos de la Estática",
     "section": "",
-    "text": "2.1 Introducción\nLa Estática es una rama de la mecánica que estudia las condiciones bajo las cuales los cuerpos permanecen en equilibrio cuando se encuentran sometidos a la acción de fuerzas. Su importancia en las carreras técnicas radica en que permite analizar estructuras, elementos mecánicos, sistemas de soporte, máquinas simples y componentes constructivos antes de que estos sean diseñados, fabricados o instalados.\nEn el campo de la ingeniería y la tecnología, la Estática constituye una base fundamental para asignaturas posteriores como Resistencia de Materiales, Mecánica de Materiales, Diseño Estructural, Mecánica de Fluidos, Análisis de Máquinas y Diseño de Elementos Mecánicos.",
+    "text": "3.1 Introducción\nLa Estática es una rama de la mecánica que estudia las condiciones bajo las cuales los cuerpos permanecen en equilibrio cuando se encuentran sometidos a la acción de fuerzas. Su importancia en las carreras técnicas radica en que permite analizar estructuras, elementos mecánicos, sistemas de soporte, máquinas simples y componentes constructivos antes de que estos sean diseñados, fabricados o instalados.\nEn el campo de la ingeniería y la tecnología, la Estática constituye una base fundamental para asignaturas posteriores como Resistencia de Materiales, Mecánica de Materiales, Diseño Estructural, Mecánica de Fluidos, Análisis de Máquinas y Diseño de Elementos Mecánicos.",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Fundamentos de la Estática</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Fundamentos de la Estática</span>"
+    ]
+  },
+  {
+    "objectID": "01-fundamentos.html#introducción",
+    "href": "01-fundamentos.html#introducción",
+    "title": "3  Fundamentos de la Estática",
+    "section": "",
+    "text": "Definición. La Estática es la rama de la mecánica que estudia cuerpos en equilibrio bajo la acción de fuerzas.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Fundamentos de la Estática</span>"
     ]
   },
   {
     "objectID": "01-fundamentos.html#resultados-de-aprendizaje",
     "href": "01-fundamentos.html#resultados-de-aprendizaje",
-    "title": "2  Fundamentos de la Estática",
-    "section": "2.2 Resultados de aprendizaje",
-    "text": "2.2 Resultados de aprendizaje\nAl finalizar este capítulo, el estudiante será capaz de:\n\nReconocer el campo de estudio de la Estática dentro de la mecánica.\nDiferenciar conceptos básicos como fuerza, cuerpo rígido, sistema de fuerzas y equilibrio.\nIdentificar la función del diagrama de cuerpo libre en el análisis de problemas técnicos.\nRelacionar los principios de la Estática con situaciones reales de carreras técnicas e ingeniería.",
+    "title": "3  Fundamentos de la Estática",
+    "section": "3.2 Resultados de aprendizaje",
+    "text": "3.2 Resultados de aprendizaje\nAl finalizar este capítulo, el estudiante será capaz de:\n\nReconocer el campo de estudio de la Estática dentro de la mecánica.\nDiferenciar conceptos básicos como fuerza, cuerpo rígido, sistema de fuerzas y equilibrio.\nIdentificar la función del diagrama de cuerpo libre en el análisis de problemas técnicos.\nRelacionar los principios de la Estática con situaciones reales de carreras técnicas e ingeniería.",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Fundamentos de la Estática</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Fundamentos de la Estática</span>"
     ]
   },
   {
     "objectID": "01-fundamentos.html#la-mecánica-y-sus-ramas",
     "href": "01-fundamentos.html#la-mecánica-y-sus-ramas",
-    "title": "2  Fundamentos de la Estática",
-    "section": "2.3 La mecánica y sus ramas",
-    "text": "2.3 La mecánica y sus ramas\nLa mecánica es la rama de la física que estudia el comportamiento de los cuerpos cuando se encuentran sometidos a fuerzas. De manera general, se divide en mecánica de cuerpos rígidos, mecánica de cuerpos deformables y mecánica de fluidos.\nDentro de la mecánica de cuerpos rígidos se distinguen dos áreas principales:\n\nEstática: estudia cuerpos en equilibrio.\nDinámica: estudia cuerpos en movimiento acelerado.\n\nLa Estática se concentra en aquellos casos donde las fuerzas que actúan sobre un cuerpo no producen movimiento traslacional ni rotacional.",
+    "title": "3  Fundamentos de la Estática",
+    "section": "3.3 La mecánica y sus ramas",
+    "text": "3.3 La mecánica y sus ramas\nLa mecánica es la rama de la física que estudia el comportamiento de los cuerpos cuando se encuentran sometidos a fuerzas. De manera general, se divide en mecánica de cuerpos rígidos, mecánica de cuerpos deformables y mecánica de fluidos.\nDentro de la mecánica de cuerpos rígidos se distinguen dos áreas principales:\n\nEstática: estudia cuerpos en equilibrio.\nDinámica: estudia cuerpos en movimiento acelerado.\n\nLa Estática se concentra en aquellos casos donde las fuerzas que actúan sobre un cuerpo no producen movimiento traslacional ni rotacional.",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Fundamentos de la Estática</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Fundamentos de la Estática</span>"
     ]
   },
   {
     "objectID": "01-fundamentos.html#qué-estudia-la-estática",
     "href": "01-fundamentos.html#qué-estudia-la-estática",
-    "title": "2  Fundamentos de la Estática",
-    "section": "2.4 ¿Qué estudia la Estática?",
-    "text": "2.4 ¿Qué estudia la Estática?\nLa Estática estudia las condiciones necesarias para que un cuerpo permanezca en equilibrio. Esto implica que la suma de fuerzas y la suma de momentos que actúan sobre el cuerpo deben ser iguales a cero.\nDe forma general, para un cuerpo en equilibrio se cumple:\n\\[\n\\sum F_x = 0\n\\]\n\\[\n\\sum F_y = 0\n\\]\n\\[\n\\sum M = 0\n\\]\nEstas ecuaciones permiten calcular reacciones, tensiones, fuerzas internas y condiciones de estabilidad en sistemas técnicos.",
+    "title": "3  Fundamentos de la Estática",
+    "section": "3.4 ¿Qué estudia la Estática?",
+    "text": "3.4 ¿Qué estudia la Estática?\nLa Estática estudia las condiciones necesarias para que un cuerpo permanezca en equilibrio. Esto implica que la suma de fuerzas y la suma de momentos que actúan sobre el cuerpo deben ser iguales a cero.\nDe forma general, para un cuerpo en equilibrio se cumple:\n\\[\n\\sum F_x = 0\n\\]\n\\[\n\\sum F_y = 0\n\\]\n\\[\n\\sum M = 0\n\\]\nEstas ecuaciones permiten calcular reacciones, tensiones, fuerzas internas y condiciones de estabilidad en sistemas técnicos.",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Fundamentos de la Estática</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Fundamentos de la Estática</span>"
     ]
   },
   {
     "objectID": "01-fundamentos.html#concepto-de-cuerpo-rígido",
     "href": "01-fundamentos.html#concepto-de-cuerpo-rígido",
-    "title": "2  Fundamentos de la Estática",
-    "section": "2.5 Concepto de cuerpo rígido",
-    "text": "2.5 Concepto de cuerpo rígido\nUn cuerpo rígido es un modelo idealizado de un objeto en el cual se supone que las distancias entre sus puntos no cambian, aunque actúen fuerzas externas sobre él. En la realidad, todos los cuerpos se deforman en alguna medida, pero en muchos problemas de Estática esas deformaciones son pequeñas y pueden despreciarse.\nEste modelo simplifica el análisis de vigas, columnas, armaduras, máquinas, herramientas, bastidores y elementos estructurales.",
+    "title": "3  Fundamentos de la Estática",
+    "section": "3.5 Concepto de cuerpo rígido",
+    "text": "3.5 Concepto de cuerpo rígido\nUn cuerpo rígido es un modelo idealizado de un objeto en el cual se supone que las distancias entre sus puntos no cambian, aunque actúen fuerzas externas sobre él. En la realidad, todos los cuerpos se deforman en alguna medida, pero en muchos problemas de Estática esas deformaciones son pequeñas y pueden despreciarse.\nEste modelo simplifica el análisis de vigas, columnas, armaduras, máquinas, herramientas, bastidores y elementos estructurales.",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Fundamentos de la Estática</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Fundamentos de la Estática</span>"
     ]
   },
   {
     "objectID": "01-fundamentos.html#fuerza-y-sistema-de-fuerzas",
     "href": "01-fundamentos.html#fuerza-y-sistema-de-fuerzas",
-    "title": "2  Fundamentos de la Estática",
-    "section": "2.6 Fuerza y sistema de fuerzas",
-    "text": "2.6 Fuerza y sistema de fuerzas\nUna fuerza es una interacción capaz de modificar el estado de reposo o movimiento de un cuerpo, o producir deformaciones. En Estática, una fuerza se representa mediante un vector, por lo que posee:\n\nMagnitud.\nDirección.\nSentido.\nPunto de aplicación.\n\nUn sistema de fuerzas es el conjunto de fuerzas que actúan simultáneamente sobre un cuerpo. Estos sistemas pueden ser coplanares, espaciales, concurrentes, paralelos o generales, según su disposición geométrica.",
+    "title": "3  Fundamentos de la Estática",
+    "section": "3.6 Fuerza y sistema de fuerzas",
+    "text": "3.6 Fuerza y sistema de fuerzas\nUna fuerza es una interacción capaz de modificar el estado de reposo o movimiento de un cuerpo, o producir deformaciones. En Estática, una fuerza se representa mediante un vector, por lo que posee:\n\nMagnitud.\nDirección.\nSentido.\nPunto de aplicación.\n\nUn sistema de fuerzas es el conjunto de fuerzas que actúan simultáneamente sobre un cuerpo. Estos sistemas pueden ser coplanares, espaciales, concurrentes, paralelos o generales, según su disposición geométrica.",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Fundamentos de la Estática</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Fundamentos de la Estática</span>"
     ]
   },
   {
     "objectID": "01-fundamentos.html#equilibrio",
     "href": "01-fundamentos.html#equilibrio",
-    "title": "2  Fundamentos de la Estática",
-    "section": "2.7 Equilibrio",
-    "text": "2.7 Equilibrio\nUn cuerpo se encuentra en equilibrio cuando no presenta aceleración lineal ni aceleración angular. En términos prácticos, esto significa que el cuerpo permanece en reposo o se mueve con velocidad constante.\nPara el análisis de estructuras y elementos técnicos, el caso más frecuente es el equilibrio estático, donde el cuerpo permanece en reposo.",
+    "title": "3  Fundamentos de la Estática",
+    "section": "3.7 Equilibrio",
+    "text": "3.7 Equilibrio\nUn cuerpo se encuentra en equilibrio cuando no presenta aceleración lineal ni aceleración angular. En términos prácticos, esto significa que el cuerpo permanece en reposo o se mueve con velocidad constante.\nPara el análisis de estructuras y elementos técnicos, el caso más frecuente es el equilibrio estático, donde el cuerpo permanece en reposo.",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Fundamentos de la Estática</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Fundamentos de la Estática</span>"
     ]
   },
   {
     "objectID": "01-fundamentos.html#diagrama-de-cuerpo-libre",
     "href": "01-fundamentos.html#diagrama-de-cuerpo-libre",
-    "title": "2  Fundamentos de la Estática",
-    "section": "2.8 Diagrama de cuerpo libre",
-    "text": "2.8 Diagrama de cuerpo libre\nEl diagrama de cuerpo libre es una representación gráfica simplificada de un cuerpo aislado, en la cual se muestran todas las fuerzas externas que actúan sobre él. Es una herramienta fundamental para resolver problemas de Estática.\nUn buen diagrama de cuerpo libre debe incluir:\n\nEl cuerpo o elemento aislado.\nLas fuerzas aplicadas.\nLas reacciones en los apoyos.\nEl peso propio, si es relevante.\nLas dimensiones necesarias para calcular momentos.\nEl sistema de ejes de referencia.",
+    "title": "3  Fundamentos de la Estática",
+    "section": "3.8 Diagrama de cuerpo libre",
+    "text": "3.8 Diagrama de cuerpo libre\nEl diagrama de cuerpo libre es una representación gráfica simplificada de un cuerpo aislado, en la cual se muestran todas las fuerzas externas que actúan sobre él. Es una herramienta fundamental para resolver problemas de Estática.\nUn buen diagrama de cuerpo libre debe incluir:\n\nEl cuerpo o elemento aislado.\nLas fuerzas aplicadas.\nLas reacciones en los apoyos.\nEl peso propio, si es relevante.\nLas dimensiones necesarias para calcular momentos.\nEl sistema de ejes de referencia.",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Fundamentos de la Estática</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Fundamentos de la Estática</span>"
     ]
   },
   {
     "objectID": "01-fundamentos.html#aplicaciones-de-la-estática-en-carreras-técnicas",
     "href": "01-fundamentos.html#aplicaciones-de-la-estática-en-carreras-técnicas",
-    "title": "2  Fundamentos de la Estática",
-    "section": "2.9 Aplicaciones de la Estática en carreras técnicas",
-    "text": "2.9 Aplicaciones de la Estática en carreras técnicas\nLa Estática se aplica en numerosos contextos técnicos, entre ellos:\n\nAnálisis de vigas, columnas y armaduras.\nDiseño preliminar de estructuras metálicas y de hormigón.\nVerificación de soportes, ménsulas y anclajes.\nEstudio de escaleras, grúas, poleas y máquinas simples.\nEvaluación de estabilidad en elementos constructivos.\nCálculo de reacciones en apoyos.\nAnálisis de cargas en cubiertas, puentes y plataformas.",
+    "title": "3  Fundamentos de la Estática",
+    "section": "3.9 Aplicaciones de la Estática en carreras técnicas",
+    "text": "3.9 Aplicaciones de la Estática en carreras técnicas\nLa Estática se aplica en numerosos contextos técnicos, entre ellos:\n\nAnálisis de vigas, columnas y armaduras.\nDiseño preliminar de estructuras metálicas y de hormigón.\nVerificación de soportes, ménsulas y anclajes.\nEstudio de escaleras, grúas, poleas y máquinas simples.\nEvaluación de estabilidad en elementos constructivos.\nCálculo de reacciones en apoyos.\nAnálisis de cargas en cubiertas, puentes y plataformas.",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Fundamentos de la Estática</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Fundamentos de la Estática</span>"
     ]
   },
   {
     "objectID": "01-fundamentos.html#ejemplo-introductorio-resuelto",
     "href": "01-fundamentos.html#ejemplo-introductorio-resuelto",
-    "title": "2  Fundamentos de la Estática",
-    "section": "2.10 Ejemplo introductorio resuelto",
-    "text": "2.10 Ejemplo introductorio resuelto\n\n2.10.1 Enunciado\nUna viga simplemente apoyada de 4 m de longitud soporta una carga puntual de 10 kN ubicada en el centro. Determine las reacciones verticales en los apoyos.\n\n\n2.10.2 Datos\n\nLongitud de la viga: \\(L = 4 \\, m\\)\nCarga puntual: \\(P = 10 \\, kN\\)\nUbicación de la carga: centro de la viga\nApoyos: uno en cada extremo\n\n\n\n2.10.3 Desarrollo\nPor simetría, la carga se distribuye por igual entre los dos apoyos.\nLa condición de equilibrio vertical es:\n\\[\n\\sum F_y = 0\n\\]\nPor tanto:\n\\[\nR_A + R_B - P = 0\n\\]\nComo la carga está en el centro:\n\\[\nR_A = R_B\n\\]\nEntonces:\n\\[\n2R_A = 10\n\\]\n\\[\nR_A = 5 \\, kN\n\\]\nPor lo tanto:\n\\[\nR_B = 5 \\, kN\n\\]\n\n\n2.10.4 Respuesta final\nLas reacciones verticales en los apoyos son:\n\\[\nR_A = 5 \\, kN\n\\]\n\\[\nR_B = 5 \\, kN\n\\]",
+    "title": "3  Fundamentos de la Estática",
+    "section": "3.10 Ejemplo introductorio resuelto",
+    "text": "3.10 Ejemplo introductorio resuelto\n\n3.10.1 Enunciado\nUna viga simplemente apoyada de 4 m de longitud soporta una carga puntual de 10 kN ubicada en el centro. Determine las reacciones verticales en los apoyos.\n\n\n3.10.2 Datos\n\nLongitud de la viga: \\(L = 4 \\, m\\)\nCarga puntual: \\(P = 10 \\, kN\\)\nUbicación de la carga: centro de la viga\nApoyos: uno en cada extremo\n\n\n\n3.10.3 Desarrollo\nPor simetría, la carga se distribuye por igual entre los dos apoyos.\nLa condición de equilibrio vertical es:\n\\[\n\\sum F_y = 0\n\\]\nPor tanto:\n\\[\nR_A + R_B - P = 0\n\\]\nComo la carga está en el centro:\n\\[\nR_A = R_B\n\\]\nEntonces:\n\\[\n2R_A = 10\n\\]\n\\[\nR_A = 5 \\, kN\n\\]\nPor lo tanto:\n\\[\nR_B = 5 \\, kN\n\\]\n\n\n3.10.4 Respuesta final\nLas reacciones verticales en los apoyos son:\n\\[\nR_A = 5 \\, kN\n\\]\n\\[\nR_B = 5 \\, kN\n\\]",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Fundamentos de la Estática</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Fundamentos de la Estática</span>"
     ]
   },
   {
     "objectID": "01-fundamentos.html#ejercicios-propuestos",
     "href": "01-fundamentos.html#ejercicios-propuestos",
-    "title": "2  Fundamentos de la Estática",
-    "section": "2.11 Ejercicios propuestos",
-    "text": "2.11 Ejercicios propuestos\n\nUna caja de 200 N se encuentra en reposo sobre una superficie horizontal. Dibuje el diagrama de cuerpo libre e identifique las fuerzas que actúan sobre ella.\nUna viga de 6 m de longitud soporta una carga puntual de 12 kN ubicada en el centro. Determine las reacciones en los apoyos.\nUn letrero se encuentra sostenido por dos cables inclinados. Identifique las fuerzas que deberían representarse en el diagrama de cuerpo libre.\nExplique con sus propias palabras por qué el diagrama de cuerpo libre es importante antes de resolver un problema de Estática.\nMencione tres aplicaciones de la Estática en su carrera técnica o de ingeniería.",
+    "title": "3  Fundamentos de la Estática",
+    "section": "3.11 Ejercicios propuestos",
+    "text": "3.11 Ejercicios propuestos\n\nUna caja de 200 N se encuentra en reposo sobre una superficie horizontal. Dibuje el diagrama de cuerpo libre e identifique las fuerzas que actúan sobre ella.\nUna viga de 6 m de longitud soporta una carga puntual de 12 kN ubicada en el centro. Determine las reacciones en los apoyos.\nUn letrero se encuentra sostenido por dos cables inclinados. Identifique las fuerzas que deberían representarse en el diagrama de cuerpo libre.\nExplique con sus propias palabras por qué el diagrama de cuerpo libre es importante antes de resolver un problema de Estática.\nMencione tres aplicaciones de la Estática en su carrera técnica o de ingeniería.",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Fundamentos de la Estática</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Fundamentos de la Estática</span>"
     ]
   },
   {
     "objectID": "01-fundamentos.html#preguntas-de-autoevaluación",
     "href": "01-fundamentos.html#preguntas-de-autoevaluación",
-    "title": "2  Fundamentos de la Estática",
-    "section": "2.12 Preguntas de autoevaluación",
-    "text": "2.12 Preguntas de autoevaluación\n\n¿Cuál es la diferencia entre Estática y Dinámica?\n¿Qué condiciones debe cumplir un cuerpo para encontrarse en equilibrio?\n¿Por qué una fuerza se representa como un vector?\n¿Qué información debe contener un diagrama de cuerpo libre?\n¿Por qué el modelo de cuerpo rígido es útil en el análisis técnico?",
+    "title": "3  Fundamentos de la Estática",
+    "section": "3.12 Preguntas de autoevaluación",
+    "text": "3.12 Preguntas de autoevaluación\n\n¿Cuál es la diferencia entre Estática y Dinámica?\n¿Qué condiciones debe cumplir un cuerpo para encontrarse en equilibrio?\n¿Por qué una fuerza se representa como un vector?\n¿Qué información debe contener un diagrama de cuerpo libre?\n¿Por qué el modelo de cuerpo rígido es útil en el análisis técnico?",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Fundamentos de la Estática</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Fundamentos de la Estática</span>"
     ]
   },
   {
     "objectID": "02-vectores.html",
     "href": "02-vectores.html",
-    "title": "3  Vectores",
+    "title": "4  Vectores",
     "section": "",
-    "text": "3.1 Introducción\nTexto breve que explique la importancia del tema.",
+    "text": "4.1 Introducción\nTexto breve que explique la importancia del tema.",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Vectores</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Vectores</span>"
     ]
   },
   {
     "objectID": "02-vectores.html#resultados-de-aprendizaje",
     "href": "02-vectores.html#resultados-de-aprendizaje",
-    "title": "3  Vectores",
-    "section": "3.2 Resultados de aprendizaje",
-    "text": "3.2 Resultados de aprendizaje\nAl finalizar este capítulo, el estudiante será capaz de:\n\nResultado 1.\nResultado 2.\nResultado 3.",
+    "title": "4  Vectores",
+    "section": "4.2 Resultados de aprendizaje",
+    "text": "4.2 Resultados de aprendizaje\nAl finalizar este capítulo, el estudiante será capaz de:\n\nResultado 1.\nResultado 2.\nResultado 3.",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Vectores</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Vectores</span>"
     ]
   },
   {
     "objectID": "02-vectores.html#desarrollo-teórico",
     "href": "02-vectores.html#desarrollo-teórico",
-    "title": "3  Vectores",
-    "section": "3.3 Desarrollo teórico",
-    "text": "3.3 Desarrollo teórico\nExplicación del tema con ecuaciones, figuras y conceptos clave.",
+    "title": "4  Vectores",
+    "section": "4.3 Desarrollo teórico",
+    "text": "4.3 Desarrollo teórico\nExplicación del tema con ecuaciones, figuras y conceptos clave.",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Vectores</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Vectores</span>"
     ]
   },
   {
     "objectID": "02-vectores.html#ejemplo-resuelto-1",
     "href": "02-vectores.html#ejemplo-resuelto-1",
-    "title": "3  Vectores",
-    "section": "3.4 Ejemplo resuelto 1",
-    "text": "3.4 Ejemplo resuelto 1\nPlanteamiento del problema.\n\n3.4.1 Datos\n\n\n3.4.2 Desarrollo\n\n\n3.4.3 Respuesta final",
+    "title": "4  Vectores",
+    "section": "4.4 Ejemplo resuelto 1",
+    "text": "4.4 Ejemplo resuelto 1\nPlanteamiento del problema.\n\n4.4.1 Datos\n\n\n4.4.2 Desarrollo\n\n\n4.4.3 Respuesta final",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Vectores</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Vectores</span>"
     ]
   },
   {
     "objectID": "02-vectores.html#ejemplo-resuelto-2",
     "href": "02-vectores.html#ejemplo-resuelto-2",
-    "title": "3  Vectores",
-    "section": "3.5 Ejemplo resuelto 2",
-    "text": "3.5 Ejemplo resuelto 2",
+    "title": "4  Vectores",
+    "section": "4.5 Ejemplo resuelto 2",
+    "text": "4.5 Ejemplo resuelto 2",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Vectores</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Vectores</span>"
     ]
   },
   {
     "objectID": "02-vectores.html#aplicaciones-técnicas",
     "href": "02-vectores.html#aplicaciones-técnicas",
-    "title": "3  Vectores",
-    "section": "3.6 Aplicaciones técnicas",
-    "text": "3.6 Aplicaciones técnicas\nRelación del tema con ingeniería civil, eléctrica, mecánica, arquitectura u otras carreras técnicas.",
+    "title": "4  Vectores",
+    "section": "4.6 Aplicaciones técnicas",
+    "text": "4.6 Aplicaciones técnicas\nRelación del tema con ingeniería civil, eléctrica, mecánica, arquitectura u otras carreras técnicas.",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Vectores</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Vectores</span>"
     ]
   },
   {
     "objectID": "02-vectores.html#ejercicios-propuestos",
     "href": "02-vectores.html#ejercicios-propuestos",
-    "title": "3  Vectores",
-    "section": "3.7 Ejercicios propuestos",
-    "text": "3.7 Ejercicios propuestos\n\nEjercicio 1.\nEjercicio 2.\nEjercicio 3.",
+    "title": "4  Vectores",
+    "section": "4.7 Ejercicios propuestos",
+    "text": "4.7 Ejercicios propuestos\n\nEjercicio 1.\nEjercicio 2.\nEjercicio 3.",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Vectores</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Vectores</span>"
     ]
   },
   {
     "objectID": "02-vectores.html#preguntas-de-autoevaluación",
     "href": "02-vectores.html#preguntas-de-autoevaluación",
-    "title": "3  Vectores",
-    "section": "3.8 Preguntas de autoevaluación",
-    "text": "3.8 Preguntas de autoevaluación\n\nPregunta conceptual.\nPregunta de cálculo.\nPregunta de interpretación.",
+    "title": "4  Vectores",
+    "section": "4.8 Preguntas de autoevaluación",
+    "text": "4.8 Preguntas de autoevaluación\n\nPregunta conceptual.\nPregunta de cálculo.\nPregunta de interpretación.",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Vectores</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Vectores</span>"
     ]
   },
   {
     "objectID": "02-vectores.html#referencias-bibliográficas",
     "href": "02-vectores.html#referencias-bibliográficas",
-    "title": "3  Vectores",
-    "section": "3.9 Referencias bibliográficas",
-    "text": "3.9 Referencias bibliográficas",
+    "title": "4  Vectores",
+    "section": "4.9 Referencias bibliográficas",
+    "text": "4.9 Referencias bibliográficas",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Vectores</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Vectores</span>"
     ]
   },
   {
     "objectID": "03-sistemas-fuerzas.html",
     "href": "03-sistemas-fuerzas.html",
-    "title": "4  Sistema de fuerzas",
+    "title": "5  Sistema de fuerzas",
     "section": "",
-    "text": "4.1 Introducción\nTexto breve que explique la importancia del tema.",
+    "text": "5.1 Introducción\nTexto breve que explique la importancia del tema.",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Sistema de fuerzas</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Sistema de fuerzas</span>"
     ]
   },
   {
     "objectID": "03-sistemas-fuerzas.html#resultados-de-aprendizaje",
     "href": "03-sistemas-fuerzas.html#resultados-de-aprendizaje",
-    "title": "4  Sistema de fuerzas",
-    "section": "4.2 Resultados de aprendizaje",
-    "text": "4.2 Resultados de aprendizaje\nAl finalizar este capítulo, el estudiante será capaz de:\n\nResultado 1.\nResultado 2.\nResultado 3.",
+    "title": "5  Sistema de fuerzas",
+    "section": "5.2 Resultados de aprendizaje",
+    "text": "5.2 Resultados de aprendizaje\nAl finalizar este capítulo, el estudiante será capaz de:\n\nResultado 1.\nResultado 2.\nResultado 3.",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Sistema de fuerzas</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Sistema de fuerzas</span>"
     ]
   },
   {
     "objectID": "03-sistemas-fuerzas.html#desarrollo-teórico",
     "href": "03-sistemas-fuerzas.html#desarrollo-teórico",
-    "title": "4  Sistema de fuerzas",
-    "section": "4.3 Desarrollo teórico",
-    "text": "4.3 Desarrollo teórico\nExplicación del tema con ecuaciones, figuras y conceptos clave.",
+    "title": "5  Sistema de fuerzas",
+    "section": "5.3 Desarrollo teórico",
+    "text": "5.3 Desarrollo teórico\nExplicación del tema con ecuaciones, figuras y conceptos clave.",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Sistema de fuerzas</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Sistema de fuerzas</span>"
     ]
   },
   {
     "objectID": "03-sistemas-fuerzas.html#ejemplo-resuelto-1",
     "href": "03-sistemas-fuerzas.html#ejemplo-resuelto-1",
-    "title": "4  Sistema de fuerzas",
-    "section": "4.4 Ejemplo resuelto 1",
-    "text": "4.4 Ejemplo resuelto 1\nPlanteamiento del problema.\n\n4.4.1 Datos\n\n\n4.4.2 Desarrollo\n\n\n4.4.3 Respuesta final",
+    "title": "5  Sistema de fuerzas",
+    "section": "5.4 Ejemplo resuelto 1",
+    "text": "5.4 Ejemplo resuelto 1\nPlanteamiento del problema.\n\n5.4.1 Datos\n\n\n5.4.2 Desarrollo\n\n\n5.4.3 Respuesta final",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Sistema de fuerzas</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Sistema de fuerzas</span>"
     ]
   },
   {
     "objectID": "03-sistemas-fuerzas.html#ejemplo-resuelto-2",
     "href": "03-sistemas-fuerzas.html#ejemplo-resuelto-2",
-    "title": "4  Sistema de fuerzas",
-    "section": "4.5 Ejemplo resuelto 2",
-    "text": "4.5 Ejemplo resuelto 2",
+    "title": "5  Sistema de fuerzas",
+    "section": "5.5 Ejemplo resuelto 2",
+    "text": "5.5 Ejemplo resuelto 2",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Sistema de fuerzas</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Sistema de fuerzas</span>"
     ]
   },
   {
     "objectID": "03-sistemas-fuerzas.html#aplicaciones-técnicas",
     "href": "03-sistemas-fuerzas.html#aplicaciones-técnicas",
-    "title": "4  Sistema de fuerzas",
-    "section": "4.6 Aplicaciones técnicas",
-    "text": "4.6 Aplicaciones técnicas\nRelación del tema con ingeniería civil, eléctrica, mecánica, arquitectura u otras carreras técnicas.",
+    "title": "5  Sistema de fuerzas",
+    "section": "5.6 Aplicaciones técnicas",
+    "text": "5.6 Aplicaciones técnicas\nRelación del tema con ingeniería civil, eléctrica, mecánica, arquitectura u otras carreras técnicas.",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Sistema de fuerzas</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Sistema de fuerzas</span>"
     ]
   },
   {
     "objectID": "03-sistemas-fuerzas.html#ejercicios-propuestos",
     "href": "03-sistemas-fuerzas.html#ejercicios-propuestos",
-    "title": "4  Sistema de fuerzas",
-    "section": "4.7 Ejercicios propuestos",
-    "text": "4.7 Ejercicios propuestos\n\nEjercicio 1.\nEjercicio 2.\nEjercicio 3.",
+    "title": "5  Sistema de fuerzas",
+    "section": "5.7 Ejercicios propuestos",
+    "text": "5.7 Ejercicios propuestos\n\nEjercicio 1.\nEjercicio 2.\nEjercicio 3.",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Sistema de fuerzas</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Sistema de fuerzas</span>"
     ]
   },
   {
     "objectID": "03-sistemas-fuerzas.html#preguntas-de-autoevaluación",
     "href": "03-sistemas-fuerzas.html#preguntas-de-autoevaluación",
-    "title": "4  Sistema de fuerzas",
-    "section": "4.8 Preguntas de autoevaluación",
-    "text": "4.8 Preguntas de autoevaluación\n\nPregunta conceptual.\nPregunta de cálculo.\nPregunta de interpretación.",
+    "title": "5  Sistema de fuerzas",
+    "section": "5.8 Preguntas de autoevaluación",
+    "text": "5.8 Preguntas de autoevaluación\n\nPregunta conceptual.\nPregunta de cálculo.\nPregunta de interpretación.",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Sistema de fuerzas</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Sistema de fuerzas</span>"
     ]
   },
   {
     "objectID": "03-sistemas-fuerzas.html#referencias-bibliográficas",
     "href": "03-sistemas-fuerzas.html#referencias-bibliográficas",
-    "title": "4  Sistema de fuerzas",
-    "section": "4.9 Referencias bibliográficas",
-    "text": "4.9 Referencias bibliográficas",
+    "title": "5  Sistema de fuerzas",
+    "section": "5.9 Referencias bibliográficas",
+    "text": "5.9 Referencias bibliográficas",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Sistema de fuerzas</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Sistema de fuerzas</span>"
     ]
   },
   {
     "objectID": "04-equilibrio-particulas.html",
     "href": "04-equilibrio-particulas.html",
-    "title": "5  Equilibrio de Partículas",
+    "title": "6  Equilibrio de Partículas",
     "section": "",
-    "text": "5.1 Introducción\nTexto breve que explique la importancia del tema.",
+    "text": "6.1 Introducción\nTexto breve que explique la importancia del tema.",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Equilibrio de Partículas</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Equilibrio de Partículas</span>"
     ]
   },
   {
     "objectID": "04-equilibrio-particulas.html#resultados-de-aprendizaje",
     "href": "04-equilibrio-particulas.html#resultados-de-aprendizaje",
-    "title": "5  Equilibrio de Partículas",
-    "section": "5.2 Resultados de aprendizaje",
-    "text": "5.2 Resultados de aprendizaje\nAl finalizar este capítulo, el estudiante será capaz de:\n\nResultado 1.\nResultado 2.\nResultado 3.",
+    "title": "6  Equilibrio de Partículas",
+    "section": "6.2 Resultados de aprendizaje",
+    "text": "6.2 Resultados de aprendizaje\nAl finalizar este capítulo, el estudiante será capaz de:\n\nResultado 1.\nResultado 2.\nResultado 3.",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Equilibrio de Partículas</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Equilibrio de Partículas</span>"
     ]
   },
   {
     "objectID": "04-equilibrio-particulas.html#desarrollo-teórico",
     "href": "04-equilibrio-particulas.html#desarrollo-teórico",
-    "title": "5  Equilibrio de Partículas",
-    "section": "5.3 Desarrollo teórico",
-    "text": "5.3 Desarrollo teórico\nExplicación del tema con ecuaciones, figuras y conceptos clave.",
+    "title": "6  Equilibrio de Partículas",
+    "section": "6.3 Desarrollo teórico",
+    "text": "6.3 Desarrollo teórico\nExplicación del tema con ecuaciones, figuras y conceptos clave.",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Equilibrio de Partículas</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Equilibrio de Partículas</span>"
     ]
   },
   {
     "objectID": "04-equilibrio-particulas.html#ejemplo-resuelto-1",
     "href": "04-equilibrio-particulas.html#ejemplo-resuelto-1",
-    "title": "5  Equilibrio de Partículas",
-    "section": "5.4 Ejemplo resuelto 1",
-    "text": "5.4 Ejemplo resuelto 1\nPlanteamiento del problema.\n\n5.4.1 Datos\n\n\n5.4.2 Desarrollo\n\n\n5.4.3 Respuesta final",
+    "title": "6  Equilibrio de Partículas",
+    "section": "6.4 Ejemplo resuelto 1",
+    "text": "6.4 Ejemplo resuelto 1\nPlanteamiento del problema.\n\n6.4.1 Datos\n\n\n6.4.2 Desarrollo\n\n\n6.4.3 Respuesta final",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Equilibrio de Partículas</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Equilibrio de Partículas</span>"
     ]
   },
   {
     "objectID": "04-equilibrio-particulas.html#ejemplo-resuelto-2",
     "href": "04-equilibrio-particulas.html#ejemplo-resuelto-2",
-    "title": "5  Equilibrio de Partículas",
-    "section": "5.5 Ejemplo resuelto 2",
-    "text": "5.5 Ejemplo resuelto 2",
+    "title": "6  Equilibrio de Partículas",
+    "section": "6.5 Ejemplo resuelto 2",
+    "text": "6.5 Ejemplo resuelto 2",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Equilibrio de Partículas</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Equilibrio de Partículas</span>"
     ]
   },
   {
     "objectID": "04-equilibrio-particulas.html#aplicaciones-técnicas",
     "href": "04-equilibrio-particulas.html#aplicaciones-técnicas",
-    "title": "5  Equilibrio de Partículas",
-    "section": "5.6 Aplicaciones técnicas",
-    "text": "5.6 Aplicaciones técnicas\nRelación del tema con ingeniería civil, eléctrica, mecánica, arquitectura u otras carreras técnicas.",
+    "title": "6  Equilibrio de Partículas",
+    "section": "6.6 Aplicaciones técnicas",
+    "text": "6.6 Aplicaciones técnicas\nRelación del tema con ingeniería civil, eléctrica, mecánica, arquitectura u otras carreras técnicas.",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Equilibrio de Partículas</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Equilibrio de Partículas</span>"
     ]
   },
   {
     "objectID": "04-equilibrio-particulas.html#ejercicios-propuestos",
     "href": "04-equilibrio-particulas.html#ejercicios-propuestos",
-    "title": "5  Equilibrio de Partículas",
-    "section": "5.7 Ejercicios propuestos",
-    "text": "5.7 Ejercicios propuestos\n\nEjercicio 1.\nEjercicio 2.\nEjercicio 3.",
+    "title": "6  Equilibrio de Partículas",
+    "section": "6.7 Ejercicios propuestos",
+    "text": "6.7 Ejercicios propuestos\n\nEjercicio 1.\nEjercicio 2.\nEjercicio 3.",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Equilibrio de Partículas</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Equilibrio de Partículas</span>"
     ]
   },
   {
     "objectID": "04-equilibrio-particulas.html#preguntas-de-autoevaluación",
     "href": "04-equilibrio-particulas.html#preguntas-de-autoevaluación",
-    "title": "5  Equilibrio de Partículas",
-    "section": "5.8 Preguntas de autoevaluación",
-    "text": "5.8 Preguntas de autoevaluación\n\nPregunta conceptual.\nPregunta de cálculo.\nPregunta de interpretación.",
+    "title": "6  Equilibrio de Partículas",
+    "section": "6.8 Preguntas de autoevaluación",
+    "text": "6.8 Preguntas de autoevaluación\n\nPregunta conceptual.\nPregunta de cálculo.\nPregunta de interpretación.",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Equilibrio de Partículas</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Equilibrio de Partículas</span>"
     ]
   },
   {
     "objectID": "04-equilibrio-particulas.html#referencias-bibliográficas",
     "href": "04-equilibrio-particulas.html#referencias-bibliográficas",
-    "title": "5  Equilibrio de Partículas",
-    "section": "5.9 Referencias bibliográficas",
-    "text": "5.9 Referencias bibliográficas",
+    "title": "6  Equilibrio de Partículas",
+    "section": "6.9 Referencias bibliográficas",
+    "text": "6.9 Referencias bibliográficas",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Equilibrio de Partículas</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Equilibrio de Partículas</span>"
     ]
   },
   {
     "objectID": "05-momento-fuerza.html",
     "href": "05-momento-fuerza.html",
-    "title": "6  Momento de una Fuerza",
+    "title": "7  Momento de una Fuerza",
     "section": "",
-    "text": "6.1 Introducción\nTexto breve que explique la importancia del tema.",
+    "text": "7.1 Introducción\nTexto breve que explique la importancia del tema.",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Momento de una Fuerza</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Momento de una Fuerza</span>"
     ]
   },
   {
     "objectID": "05-momento-fuerza.html#resultados-de-aprendizaje",
     "href": "05-momento-fuerza.html#resultados-de-aprendizaje",
-    "title": "6  Momento de una Fuerza",
-    "section": "6.2 Resultados de aprendizaje",
-    "text": "6.2 Resultados de aprendizaje\nAl finalizar este capítulo, el estudiante será capaz de:\n\nResultado 1.\nResultado 2.\nResultado 3.",
+    "title": "7  Momento de una Fuerza",
+    "section": "7.2 Resultados de aprendizaje",
+    "text": "7.2 Resultados de aprendizaje\nAl finalizar este capítulo, el estudiante será capaz de:\n\nResultado 1.\nResultado 2.\nResultado 3.",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Momento de una Fuerza</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Momento de una Fuerza</span>"
     ]
   },
   {
     "objectID": "05-momento-fuerza.html#desarrollo-teórico",
     "href": "05-momento-fuerza.html#desarrollo-teórico",
-    "title": "6  Momento de una Fuerza",
-    "section": "6.3 Desarrollo teórico",
-    "text": "6.3 Desarrollo teórico\nExplicación del tema con ecuaciones, figuras y conceptos clave.",
+    "title": "7  Momento de una Fuerza",
+    "section": "7.3 Desarrollo teórico",
+    "text": "7.3 Desarrollo teórico\nExplicación del tema con ecuaciones, figuras y conceptos clave.",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Momento de una Fuerza</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Momento de una Fuerza</span>"
     ]
   },
   {
     "objectID": "05-momento-fuerza.html#ejemplo-resuelto-1",
     "href": "05-momento-fuerza.html#ejemplo-resuelto-1",
-    "title": "6  Momento de una Fuerza",
-    "section": "6.4 Ejemplo resuelto 1",
-    "text": "6.4 Ejemplo resuelto 1\nPlanteamiento del problema.\n\n6.4.1 Datos\n\n\n6.4.2 Desarrollo\n\n\n6.4.3 Respuesta final",
+    "title": "7  Momento de una Fuerza",
+    "section": "7.4 Ejemplo resuelto 1",
+    "text": "7.4 Ejemplo resuelto 1\nPlanteamiento del problema.\n\n7.4.1 Datos\n\n\n7.4.2 Desarrollo\n\n\n7.4.3 Respuesta final",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Momento de una Fuerza</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Momento de una Fuerza</span>"
     ]
   },
   {
     "objectID": "05-momento-fuerza.html#ejemplo-resuelto-2",
     "href": "05-momento-fuerza.html#ejemplo-resuelto-2",
-    "title": "6  Momento de una Fuerza",
-    "section": "6.5 Ejemplo resuelto 2",
-    "text": "6.5 Ejemplo resuelto 2",
+    "title": "7  Momento de una Fuerza",
+    "section": "7.5 Ejemplo resuelto 2",
+    "text": "7.5 Ejemplo resuelto 2",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Momento de una Fuerza</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Momento de una Fuerza</span>"
     ]
   },
   {
     "objectID": "05-momento-fuerza.html#aplicaciones-técnicas",
     "href": "05-momento-fuerza.html#aplicaciones-técnicas",
-    "title": "6  Momento de una Fuerza",
-    "section": "6.6 Aplicaciones técnicas",
-    "text": "6.6 Aplicaciones técnicas\nRelación del tema con ingeniería civil, eléctrica, mecánica, arquitectura u otras carreras técnicas.",
+    "title": "7  Momento de una Fuerza",
+    "section": "7.6 Aplicaciones técnicas",
+    "text": "7.6 Aplicaciones técnicas\nRelación del tema con ingeniería civil, eléctrica, mecánica, arquitectura u otras carreras técnicas.",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Momento de una Fuerza</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Momento de una Fuerza</span>"
     ]
   },
   {
     "objectID": "05-momento-fuerza.html#ejercicios-propuestos",
     "href": "05-momento-fuerza.html#ejercicios-propuestos",
-    "title": "6  Momento de una Fuerza",
-    "section": "6.7 Ejercicios propuestos",
-    "text": "6.7 Ejercicios propuestos\n\nEjercicio 1.\nEjercicio 2.\nEjercicio 3.",
+    "title": "7  Momento de una Fuerza",
+    "section": "7.7 Ejercicios propuestos",
+    "text": "7.7 Ejercicios propuestos\n\nEjercicio 1.\nEjercicio 2.\nEjercicio 3.",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Momento de una Fuerza</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Momento de una Fuerza</span>"
     ]
   },
   {
     "objectID": "05-momento-fuerza.html#preguntas-de-autoevaluación",
     "href": "05-momento-fuerza.html#preguntas-de-autoevaluación",
-    "title": "6  Momento de una Fuerza",
-    "section": "6.8 Preguntas de autoevaluación",
-    "text": "6.8 Preguntas de autoevaluación\n\nPregunta conceptual.\nPregunta de cálculo.\nPregunta de interpretación.",
+    "title": "7  Momento de una Fuerza",
+    "section": "7.8 Preguntas de autoevaluación",
+    "text": "7.8 Preguntas de autoevaluación\n\nPregunta conceptual.\nPregunta de cálculo.\nPregunta de interpretación.",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Momento de una Fuerza</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Momento de una Fuerza</span>"
     ]
   },
   {
     "objectID": "05-momento-fuerza.html#referencias-bibliográficas",
     "href": "05-momento-fuerza.html#referencias-bibliográficas",
-    "title": "6  Momento de una Fuerza",
-    "section": "6.9 Referencias bibliográficas",
-    "text": "6.9 Referencias bibliográficas",
+    "title": "7  Momento de una Fuerza",
+    "section": "7.9 Referencias bibliográficas",
+    "text": "7.9 Referencias bibliográficas",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Momento de una Fuerza</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Momento de una Fuerza</span>"
     ]
   },
   {
     "objectID": "06-equilibrio-cuerpos-rigidos.html",
     "href": "06-equilibrio-cuerpos-rigidos.html",
-    "title": "7  Equilibrio de Cuerpos Rígidos",
+    "title": "8  Equilibrio de Cuerpos Rígidos",
     "section": "",
-    "text": "7.1 Introducción\nTexto breve que explique la importancia del tema.",
+    "text": "8.1 Introducción\nTexto breve que explique la importancia del tema.",
     "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Equilibrio de Cuerpos Rígidos</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Equilibrio de Cuerpos Rígidos</span>"
     ]
   },
   {
     "objectID": "06-equilibrio-cuerpos-rigidos.html#resultados-de-aprendizaje",
     "href": "06-equilibrio-cuerpos-rigidos.html#resultados-de-aprendizaje",
-    "title": "7  Equilibrio de Cuerpos Rígidos",
-    "section": "7.2 Resultados de aprendizaje",
-    "text": "7.2 Resultados de aprendizaje\nAl finalizar este capítulo, el estudiante será capaz de:\n\nResultado 1.\nResultado 2.\nResultado 3.",
+    "title": "8  Equilibrio de Cuerpos Rígidos",
+    "section": "8.2 Resultados de aprendizaje",
+    "text": "8.2 Resultados de aprendizaje\nAl finalizar este capítulo, el estudiante será capaz de:\n\nResultado 1.\nResultado 2.\nResultado 3.",
     "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Equilibrio de Cuerpos Rígidos</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Equilibrio de Cuerpos Rígidos</span>"
     ]
   },
   {
     "objectID": "06-equilibrio-cuerpos-rigidos.html#desarrollo-teórico",
     "href": "06-equilibrio-cuerpos-rigidos.html#desarrollo-teórico",
-    "title": "7  Equilibrio de Cuerpos Rígidos",
-    "section": "7.3 Desarrollo teórico",
-    "text": "7.3 Desarrollo teórico\nExplicación del tema con ecuaciones, figuras y conceptos clave.",
+    "title": "8  Equilibrio de Cuerpos Rígidos",
+    "section": "8.3 Desarrollo teórico",
+    "text": "8.3 Desarrollo teórico\nExplicación del tema con ecuaciones, figuras y conceptos clave.",
     "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Equilibrio de Cuerpos Rígidos</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Equilibrio de Cuerpos Rígidos</span>"
     ]
   },
   {
     "objectID": "06-equilibrio-cuerpos-rigidos.html#ejemplo-resuelto-1",
     "href": "06-equilibrio-cuerpos-rigidos.html#ejemplo-resuelto-1",
-    "title": "7  Equilibrio de Cuerpos Rígidos",
-    "section": "7.4 Ejemplo resuelto 1",
-    "text": "7.4 Ejemplo resuelto 1\nPlanteamiento del problema.\n\n7.4.1 Datos\n\n\n7.4.2 Desarrollo\n\n\n7.4.3 Respuesta final",
+    "title": "8  Equilibrio de Cuerpos Rígidos",
+    "section": "8.4 Ejemplo resuelto 1",
+    "text": "8.4 Ejemplo resuelto 1\nPlanteamiento del problema.\n\n8.4.1 Datos\n\n\n8.4.2 Desarrollo\n\n\n8.4.3 Respuesta final",
     "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Equilibrio de Cuerpos Rígidos</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Equilibrio de Cuerpos Rígidos</span>"
     ]
   },
   {
     "objectID": "06-equilibrio-cuerpos-rigidos.html#ejemplo-resuelto-2",
     "href": "06-equilibrio-cuerpos-rigidos.html#ejemplo-resuelto-2",
-    "title": "7  Equilibrio de Cuerpos Rígidos",
-    "section": "7.5 Ejemplo resuelto 2",
-    "text": "7.5 Ejemplo resuelto 2",
+    "title": "8  Equilibrio de Cuerpos Rígidos",
+    "section": "8.5 Ejemplo resuelto 2",
+    "text": "8.5 Ejemplo resuelto 2",
     "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Equilibrio de Cuerpos Rígidos</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Equilibrio de Cuerpos Rígidos</span>"
     ]
   },
   {
     "objectID": "06-equilibrio-cuerpos-rigidos.html#aplicaciones-técnicas",
     "href": "06-equilibrio-cuerpos-rigidos.html#aplicaciones-técnicas",
-    "title": "7  Equilibrio de Cuerpos Rígidos",
-    "section": "7.6 Aplicaciones técnicas",
-    "text": "7.6 Aplicaciones técnicas\nRelación del tema con ingeniería civil, eléctrica, mecánica, arquitectura u otras carreras técnicas.",
+    "title": "8  Equilibrio de Cuerpos Rígidos",
+    "section": "8.6 Aplicaciones técnicas",
+    "text": "8.6 Aplicaciones técnicas\nRelación del tema con ingeniería civil, eléctrica, mecánica, arquitectura u otras carreras técnicas.",
     "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Equilibrio de Cuerpos Rígidos</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Equilibrio de Cuerpos Rígidos</span>"
     ]
   },
   {
     "objectID": "06-equilibrio-cuerpos-rigidos.html#ejercicios-propuestos",
     "href": "06-equilibrio-cuerpos-rigidos.html#ejercicios-propuestos",
-    "title": "7  Equilibrio de Cuerpos Rígidos",
-    "section": "7.7 Ejercicios propuestos",
-    "text": "7.7 Ejercicios propuestos\n\nEjercicio 1.\nEjercicio 2.\nEjercicio 3.",
+    "title": "8  Equilibrio de Cuerpos Rígidos",
+    "section": "8.7 Ejercicios propuestos",
+    "text": "8.7 Ejercicios propuestos\n\nEjercicio 1.\nEjercicio 2.\nEjercicio 3.",
     "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Equilibrio de Cuerpos Rígidos</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Equilibrio de Cuerpos Rígidos</span>"
     ]
   },
   {
     "objectID": "06-equilibrio-cuerpos-rigidos.html#preguntas-de-autoevaluación",
     "href": "06-equilibrio-cuerpos-rigidos.html#preguntas-de-autoevaluación",
-    "title": "7  Equilibrio de Cuerpos Rígidos",
-    "section": "7.8 Preguntas de autoevaluación",
-    "text": "7.8 Preguntas de autoevaluación\n\nPregunta conceptual.\nPregunta de cálculo.\nPregunta de interpretación.",
+    "title": "8  Equilibrio de Cuerpos Rígidos",
+    "section": "8.8 Preguntas de autoevaluación",
+    "text": "8.8 Preguntas de autoevaluación\n\nPregunta conceptual.\nPregunta de cálculo.\nPregunta de interpretación.",
     "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Equilibrio de Cuerpos Rígidos</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Equilibrio de Cuerpos Rígidos</span>"
     ]
   },
   {
     "objectID": "06-equilibrio-cuerpos-rigidos.html#referencias-bibliográficas",
     "href": "06-equilibrio-cuerpos-rigidos.html#referencias-bibliográficas",
-    "title": "7  Equilibrio de Cuerpos Rígidos",
-    "section": "7.9 Referencias bibliográficas",
-    "text": "7.9 Referencias bibliográficas",
+    "title": "8  Equilibrio de Cuerpos Rígidos",
+    "section": "8.9 Referencias bibliográficas",
+    "text": "8.9 Referencias bibliográficas",
     "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Equilibrio de Cuerpos Rígidos</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Equilibrio de Cuerpos Rígidos</span>"
     ]
   },
   {
     "objectID": "07-centroides.html",
     "href": "07-centroides.html",
-    "title": "8  Centroides",
+    "title": "9  Centroides",
     "section": "",
-    "text": "8.1 Introducción\nTexto breve que explique la importancia del tema.",
+    "text": "9.1 Introducción\nTexto breve que explique la importancia del tema.",
     "crumbs": [
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Centroides</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Centroides</span>"
     ]
   },
   {
     "objectID": "07-centroides.html#resultados-de-aprendizaje",
     "href": "07-centroides.html#resultados-de-aprendizaje",
-    "title": "8  Centroides",
-    "section": "8.2 Resultados de aprendizaje",
-    "text": "8.2 Resultados de aprendizaje\nAl finalizar este capítulo, el estudiante será capaz de:\n\nResultado 1.\nResultado 2.\nResultado 3.",
+    "title": "9  Centroides",
+    "section": "9.2 Resultados de aprendizaje",
+    "text": "9.2 Resultados de aprendizaje\nAl finalizar este capítulo, el estudiante será capaz de:\n\nResultado 1.\nResultado 2.\nResultado 3.",
     "crumbs": [
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Centroides</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Centroides</span>"
     ]
   },
   {
     "objectID": "07-centroides.html#desarrollo-teórico",
     "href": "07-centroides.html#desarrollo-teórico",
-    "title": "8  Centroides",
-    "section": "8.3 Desarrollo teórico",
-    "text": "8.3 Desarrollo teórico\nExplicación del tema con ecuaciones, figuras y conceptos clave.",
+    "title": "9  Centroides",
+    "section": "9.3 Desarrollo teórico",
+    "text": "9.3 Desarrollo teórico\nExplicación del tema con ecuaciones, figuras y conceptos clave.",
     "crumbs": [
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Centroides</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Centroides</span>"
     ]
   },
   {
     "objectID": "07-centroides.html#ejemplo-resuelto-1",
     "href": "07-centroides.html#ejemplo-resuelto-1",
-    "title": "8  Centroides",
-    "section": "8.4 Ejemplo resuelto 1",
-    "text": "8.4 Ejemplo resuelto 1\nPlanteamiento del problema.\n\n8.4.1 Datos\n\n\n8.4.2 Desarrollo\n\n\n8.4.3 Respuesta final",
+    "title": "9  Centroides",
+    "section": "9.4 Ejemplo resuelto 1",
+    "text": "9.4 Ejemplo resuelto 1\nPlanteamiento del problema.\n\n9.4.1 Datos\n\n\n9.4.2 Desarrollo\n\n\n9.4.3 Respuesta final",
     "crumbs": [
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Centroides</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Centroides</span>"
     ]
   },
   {
     "objectID": "07-centroides.html#ejemplo-resuelto-2",
     "href": "07-centroides.html#ejemplo-resuelto-2",
-    "title": "8  Centroides",
-    "section": "8.5 Ejemplo resuelto 2",
-    "text": "8.5 Ejemplo resuelto 2",
+    "title": "9  Centroides",
+    "section": "9.5 Ejemplo resuelto 2",
+    "text": "9.5 Ejemplo resuelto 2",
     "crumbs": [
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Centroides</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Centroides</span>"
     ]
   },
   {
     "objectID": "07-centroides.html#aplicaciones-técnicas",
     "href": "07-centroides.html#aplicaciones-técnicas",
-    "title": "8  Centroides",
-    "section": "8.6 Aplicaciones técnicas",
-    "text": "8.6 Aplicaciones técnicas\nRelación del tema con ingeniería civil, eléctrica, mecánica, arquitectura u otras carreras técnicas.",
+    "title": "9  Centroides",
+    "section": "9.6 Aplicaciones técnicas",
+    "text": "9.6 Aplicaciones técnicas\nRelación del tema con ingeniería civil, eléctrica, mecánica, arquitectura u otras carreras técnicas.",
     "crumbs": [
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Centroides</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Centroides</span>"
     ]
   },
   {
     "objectID": "07-centroides.html#ejercicios-propuestos",
     "href": "07-centroides.html#ejercicios-propuestos",
-    "title": "8  Centroides",
-    "section": "8.7 Ejercicios propuestos",
-    "text": "8.7 Ejercicios propuestos\n\nEjercicio 1.\nEjercicio 2.\nEjercicio 3.",
+    "title": "9  Centroides",
+    "section": "9.7 Ejercicios propuestos",
+    "text": "9.7 Ejercicios propuestos\n\nEjercicio 1.\nEjercicio 2.\nEjercicio 3.",
     "crumbs": [
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Centroides</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Centroides</span>"
     ]
   },
   {
     "objectID": "07-centroides.html#preguntas-de-autoevaluación",
     "href": "07-centroides.html#preguntas-de-autoevaluación",
-    "title": "8  Centroides",
-    "section": "8.8 Preguntas de autoevaluación",
-    "text": "8.8 Preguntas de autoevaluación\n\nPregunta conceptual.\nPregunta de cálculo.\nPregunta de interpretación.",
+    "title": "9  Centroides",
+    "section": "9.8 Preguntas de autoevaluación",
+    "text": "9.8 Preguntas de autoevaluación\n\nPregunta conceptual.\nPregunta de cálculo.\nPregunta de interpretación.",
     "crumbs": [
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Centroides</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Centroides</span>"
     ]
   },
   {
     "objectID": "07-centroides.html#referencias-bibliográficas",
     "href": "07-centroides.html#referencias-bibliográficas",
-    "title": "8  Centroides",
-    "section": "8.9 Referencias bibliográficas",
-    "text": "8.9 Referencias bibliográficas",
+    "title": "9  Centroides",
+    "section": "9.9 Referencias bibliográficas",
+    "text": "9.9 Referencias bibliográficas",
     "crumbs": [
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Centroides</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Centroides</span>"
     ]
   },
   {
     "objectID": "08-armaduras.html",
     "href": "08-armaduras.html",
-    "title": "9  Armaduras",
+    "title": "10  Armaduras",
     "section": "",
-    "text": "9.1 Introducción\nTexto breve que explique la importancia del tema.",
+    "text": "10.1 Introducción\nTexto breve que explique la importancia del tema.",
     "crumbs": [
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Armaduras</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Armaduras</span>"
     ]
   },
   {
     "objectID": "08-armaduras.html#resultados-de-aprendizaje",
     "href": "08-armaduras.html#resultados-de-aprendizaje",
-    "title": "9  Armaduras",
-    "section": "9.2 Resultados de aprendizaje",
-    "text": "9.2 Resultados de aprendizaje\nAl finalizar este capítulo, el estudiante será capaz de:\n\nResultado 1.\nResultado 2.\nResultado 3.",
+    "title": "10  Armaduras",
+    "section": "10.2 Resultados de aprendizaje",
+    "text": "10.2 Resultados de aprendizaje\nAl finalizar este capítulo, el estudiante será capaz de:\n\nResultado 1.\nResultado 2.\nResultado 3.",
     "crumbs": [
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Armaduras</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Armaduras</span>"
     ]
   },
   {
     "objectID": "08-armaduras.html#desarrollo-teórico",
     "href": "08-armaduras.html#desarrollo-teórico",
-    "title": "9  Armaduras",
-    "section": "9.3 Desarrollo teórico",
-    "text": "9.3 Desarrollo teórico\nExplicación del tema con ecuaciones, figuras y conceptos clave.",
+    "title": "10  Armaduras",
+    "section": "10.3 Desarrollo teórico",
+    "text": "10.3 Desarrollo teórico\nExplicación del tema con ecuaciones, figuras y conceptos clave.",
     "crumbs": [
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Armaduras</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Armaduras</span>"
     ]
   },
   {
     "objectID": "08-armaduras.html#ejemplo-resuelto-1",
     "href": "08-armaduras.html#ejemplo-resuelto-1",
-    "title": "9  Armaduras",
-    "section": "9.4 Ejemplo resuelto 1",
-    "text": "9.4 Ejemplo resuelto 1\nPlanteamiento del problema.\n\n9.4.1 Datos\n\n\n9.4.2 Desarrollo\n\n\n9.4.3 Respuesta final",
+    "title": "10  Armaduras",
+    "section": "10.4 Ejemplo resuelto 1",
+    "text": "10.4 Ejemplo resuelto 1\nPlanteamiento del problema.\n\n10.4.1 Datos\n\n\n10.4.2 Desarrollo\n\n\n10.4.3 Respuesta final",
     "crumbs": [
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Armaduras</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Armaduras</span>"
     ]
   },
   {
     "objectID": "08-armaduras.html#ejemplo-resuelto-2",
     "href": "08-armaduras.html#ejemplo-resuelto-2",
-    "title": "9  Armaduras",
-    "section": "9.5 Ejemplo resuelto 2",
-    "text": "9.5 Ejemplo resuelto 2",
+    "title": "10  Armaduras",
+    "section": "10.5 Ejemplo resuelto 2",
+    "text": "10.5 Ejemplo resuelto 2",
     "crumbs": [
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Armaduras</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Armaduras</span>"
     ]
   },
   {
     "objectID": "08-armaduras.html#aplicaciones-técnicas",
     "href": "08-armaduras.html#aplicaciones-técnicas",
-    "title": "9  Armaduras",
-    "section": "9.6 Aplicaciones técnicas",
-    "text": "9.6 Aplicaciones técnicas\nRelación del tema con ingeniería civil, eléctrica, mecánica, arquitectura u otras carreras técnicas.",
+    "title": "10  Armaduras",
+    "section": "10.6 Aplicaciones técnicas",
+    "text": "10.6 Aplicaciones técnicas\nRelación del tema con ingeniería civil, eléctrica, mecánica, arquitectura u otras carreras técnicas.",
     "crumbs": [
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Armaduras</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Armaduras</span>"
     ]
   },
   {
     "objectID": "08-armaduras.html#ejercicios-propuestos",
     "href": "08-armaduras.html#ejercicios-propuestos",
-    "title": "9  Armaduras",
-    "section": "9.7 Ejercicios propuestos",
-    "text": "9.7 Ejercicios propuestos\n\nEjercicio 1.\nEjercicio 2.\nEjercicio 3.",
+    "title": "10  Armaduras",
+    "section": "10.7 Ejercicios propuestos",
+    "text": "10.7 Ejercicios propuestos\n\nEjercicio 1.\nEjercicio 2.\nEjercicio 3.",
     "crumbs": [
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Armaduras</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Armaduras</span>"
     ]
   },
   {
     "objectID": "08-armaduras.html#preguntas-de-autoevaluación",
     "href": "08-armaduras.html#preguntas-de-autoevaluación",
-    "title": "9  Armaduras",
-    "section": "9.8 Preguntas de autoevaluación",
-    "text": "9.8 Preguntas de autoevaluación\n\nPregunta conceptual.\nPregunta de cálculo.\nPregunta de interpretación.",
+    "title": "10  Armaduras",
+    "section": "10.8 Preguntas de autoevaluación",
+    "text": "10.8 Preguntas de autoevaluación\n\nPregunta conceptual.\nPregunta de cálculo.\nPregunta de interpretación.",
     "crumbs": [
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Armaduras</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Armaduras</span>"
     ]
   },
   {
     "objectID": "08-armaduras.html#referencias-bibliográficas",
     "href": "08-armaduras.html#referencias-bibliográficas",
-    "title": "9  Armaduras",
-    "section": "9.9 Referencias bibliográficas",
-    "text": "9.9 Referencias bibliográficas",
+    "title": "10  Armaduras",
+    "section": "10.9 Referencias bibliográficas",
+    "text": "10.9 Referencias bibliográficas",
     "crumbs": [
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Armaduras</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Armaduras</span>"
     ]
   },
   {
     "objectID": "09-marcos-maquinas.html",
     "href": "09-marcos-maquinas.html",
-    "title": "10  Marcos - Máquinas",
+    "title": "11  Marcos - Máquinas",
     "section": "",
-    "text": "10.1 Introducción\nTexto breve que explique la importancia del tema.",
+    "text": "11.1 Introducción\nTexto breve que explique la importancia del tema.",
     "crumbs": [
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Marcos - Máquinas</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Marcos - Máquinas</span>"
     ]
   },
   {
     "objectID": "09-marcos-maquinas.html#resultados-de-aprendizaje",
     "href": "09-marcos-maquinas.html#resultados-de-aprendizaje",
-    "title": "10  Marcos - Máquinas",
-    "section": "10.2 Resultados de aprendizaje",
-    "text": "10.2 Resultados de aprendizaje\nAl finalizar este capítulo, el estudiante será capaz de:\n\nResultado 1.\nResultado 2.\nResultado 3.",
+    "title": "11  Marcos - Máquinas",
+    "section": "11.2 Resultados de aprendizaje",
+    "text": "11.2 Resultados de aprendizaje\nAl finalizar este capítulo, el estudiante será capaz de:\n\nResultado 1.\nResultado 2.\nResultado 3.",
     "crumbs": [
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Marcos - Máquinas</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Marcos - Máquinas</span>"
     ]
   },
   {
     "objectID": "09-marcos-maquinas.html#desarrollo-teórico",
     "href": "09-marcos-maquinas.html#desarrollo-teórico",
-    "title": "10  Marcos - Máquinas",
-    "section": "10.3 Desarrollo teórico",
-    "text": "10.3 Desarrollo teórico\nExplicación del tema con ecuaciones, figuras y conceptos clave.",
+    "title": "11  Marcos - Máquinas",
+    "section": "11.3 Desarrollo teórico",
+    "text": "11.3 Desarrollo teórico\nExplicación del tema con ecuaciones, figuras y conceptos clave.",
     "crumbs": [
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Marcos - Máquinas</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Marcos - Máquinas</span>"
     ]
   },
   {
     "objectID": "09-marcos-maquinas.html#ejemplo-resuelto-1",
     "href": "09-marcos-maquinas.html#ejemplo-resuelto-1",
-    "title": "10  Marcos - Máquinas",
-    "section": "10.4 Ejemplo resuelto 1",
-    "text": "10.4 Ejemplo resuelto 1\nPlanteamiento del problema.\n\n10.4.1 Datos\n\n\n10.4.2 Desarrollo\n\n\n10.4.3 Respuesta final",
+    "title": "11  Marcos - Máquinas",
+    "section": "11.4 Ejemplo resuelto 1",
+    "text": "11.4 Ejemplo resuelto 1\nPlanteamiento del problema.\n\n11.4.1 Datos\n\n\n11.4.2 Desarrollo\n\n\n11.4.3 Respuesta final",
     "crumbs": [
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Marcos - Máquinas</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Marcos - Máquinas</span>"
     ]
   },
   {
     "objectID": "09-marcos-maquinas.html#ejemplo-resuelto-2",
     "href": "09-marcos-maquinas.html#ejemplo-resuelto-2",
-    "title": "10  Marcos - Máquinas",
-    "section": "10.5 Ejemplo resuelto 2",
-    "text": "10.5 Ejemplo resuelto 2",
+    "title": "11  Marcos - Máquinas",
+    "section": "11.5 Ejemplo resuelto 2",
+    "text": "11.5 Ejemplo resuelto 2",
     "crumbs": [
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Marcos - Máquinas</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Marcos - Máquinas</span>"
     ]
   },
   {
     "objectID": "09-marcos-maquinas.html#aplicaciones-técnicas",
     "href": "09-marcos-maquinas.html#aplicaciones-técnicas",
-    "title": "10  Marcos - Máquinas",
-    "section": "10.6 Aplicaciones técnicas",
-    "text": "10.6 Aplicaciones técnicas\nRelación del tema con ingeniería civil, eléctrica, mecánica, arquitectura u otras carreras técnicas.",
+    "title": "11  Marcos - Máquinas",
+    "section": "11.6 Aplicaciones técnicas",
+    "text": "11.6 Aplicaciones técnicas\nRelación del tema con ingeniería civil, eléctrica, mecánica, arquitectura u otras carreras técnicas.",
     "crumbs": [
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Marcos - Máquinas</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Marcos - Máquinas</span>"
     ]
   },
   {
     "objectID": "09-marcos-maquinas.html#ejercicios-propuestos",
     "href": "09-marcos-maquinas.html#ejercicios-propuestos",
-    "title": "10  Marcos - Máquinas",
-    "section": "10.7 Ejercicios propuestos",
-    "text": "10.7 Ejercicios propuestos\n\nEjercicio 1.\nEjercicio 2.\nEjercicio 3.",
+    "title": "11  Marcos - Máquinas",
+    "section": "11.7 Ejercicios propuestos",
+    "text": "11.7 Ejercicios propuestos\n\nEjercicio 1.\nEjercicio 2.\nEjercicio 3.",
     "crumbs": [
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Marcos - Máquinas</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Marcos - Máquinas</span>"
     ]
   },
   {
     "objectID": "09-marcos-maquinas.html#preguntas-de-autoevaluación",
     "href": "09-marcos-maquinas.html#preguntas-de-autoevaluación",
-    "title": "10  Marcos - Máquinas",
-    "section": "10.8 Preguntas de autoevaluación",
-    "text": "10.8 Preguntas de autoevaluación\n\nPregunta conceptual.\nPregunta de cálculo.\nPregunta de interpretación.",
+    "title": "11  Marcos - Máquinas",
+    "section": "11.8 Preguntas de autoevaluación",
+    "text": "11.8 Preguntas de autoevaluación\n\nPregunta conceptual.\nPregunta de cálculo.\nPregunta de interpretación.",
     "crumbs": [
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Marcos - Máquinas</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Marcos - Máquinas</span>"
     ]
   },
   {
     "objectID": "09-marcos-maquinas.html#referencias-bibliográficas",
     "href": "09-marcos-maquinas.html#referencias-bibliográficas",
-    "title": "10  Marcos - Máquinas",
-    "section": "10.9 Referencias bibliográficas",
-    "text": "10.9 Referencias bibliográficas",
+    "title": "11  Marcos - Máquinas",
+    "section": "11.9 Referencias bibliográficas",
+    "text": "11.9 Referencias bibliográficas",
     "crumbs": [
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Marcos - Máquinas</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Marcos - Máquinas</span>"
     ]
   },
   {
     "objectID": "10-friccion.html",
     "href": "10-friccion.html",
-    "title": "11  Fricción",
+    "title": "12  Fricción",
     "section": "",
-    "text": "11.1 Introducción\nTexto breve que explique la importancia del tema.",
+    "text": "12.1 Introducción\nTexto breve que explique la importancia del tema.",
     "crumbs": [
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Fricción</span>"
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Fricción</span>"
     ]
   },
   {
     "objectID": "10-friccion.html#resultados-de-aprendizaje",
     "href": "10-friccion.html#resultados-de-aprendizaje",
-    "title": "11  Fricción",
-    "section": "11.2 Resultados de aprendizaje",
-    "text": "11.2 Resultados de aprendizaje\nAl finalizar este capítulo, el estudiante será capaz de:\n\nResultado 1.\nResultado 2.\nResultado 3.",
+    "title": "12  Fricción",
+    "section": "12.2 Resultados de aprendizaje",
+    "text": "12.2 Resultados de aprendizaje\nAl finalizar este capítulo, el estudiante será capaz de:\n\nResultado 1.\nResultado 2.\nResultado 3.",
     "crumbs": [
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Fricción</span>"
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Fricción</span>"
     ]
   },
   {
     "objectID": "10-friccion.html#desarrollo-teórico",
     "href": "10-friccion.html#desarrollo-teórico",
-    "title": "11  Fricción",
-    "section": "11.3 Desarrollo teórico",
-    "text": "11.3 Desarrollo teórico\nExplicación del tema con ecuaciones, figuras y conceptos clave.",
+    "title": "12  Fricción",
+    "section": "12.3 Desarrollo teórico",
+    "text": "12.3 Desarrollo teórico\nExplicación del tema con ecuaciones, figuras y conceptos clave.",
     "crumbs": [
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Fricción</span>"
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Fricción</span>"
     ]
   },
   {
     "objectID": "10-friccion.html#ejemplo-resuelto-1",
     "href": "10-friccion.html#ejemplo-resuelto-1",
-    "title": "11  Fricción",
-    "section": "11.4 Ejemplo resuelto 1",
-    "text": "11.4 Ejemplo resuelto 1\nPlanteamiento del problema.\n\n11.4.1 Datos\n\n\n11.4.2 Desarrollo\n\n\n11.4.3 Respuesta final",
+    "title": "12  Fricción",
+    "section": "12.4 Ejemplo resuelto 1",
+    "text": "12.4 Ejemplo resuelto 1\nPlanteamiento del problema.\n\n12.4.1 Datos\n\n\n12.4.2 Desarrollo\n\n\n12.4.3 Respuesta final",
     "crumbs": [
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Fricción</span>"
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Fricción</span>"
     ]
   },
   {
     "objectID": "10-friccion.html#ejemplo-resuelto-2",
     "href": "10-friccion.html#ejemplo-resuelto-2",
-    "title": "11  Fricción",
-    "section": "11.5 Ejemplo resuelto 2",
-    "text": "11.5 Ejemplo resuelto 2",
+    "title": "12  Fricción",
+    "section": "12.5 Ejemplo resuelto 2",
+    "text": "12.5 Ejemplo resuelto 2",
     "crumbs": [
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Fricción</span>"
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Fricción</span>"
     ]
   },
   {
     "objectID": "10-friccion.html#aplicaciones-técnicas",
     "href": "10-friccion.html#aplicaciones-técnicas",
-    "title": "11  Fricción",
-    "section": "11.6 Aplicaciones técnicas",
-    "text": "11.6 Aplicaciones técnicas\nRelación del tema con ingeniería civil, eléctrica, mecánica, arquitectura u otras carreras técnicas.",
+    "title": "12  Fricción",
+    "section": "12.6 Aplicaciones técnicas",
+    "text": "12.6 Aplicaciones técnicas\nRelación del tema con ingeniería civil, eléctrica, mecánica, arquitectura u otras carreras técnicas.",
     "crumbs": [
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Fricción</span>"
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Fricción</span>"
     ]
   },
   {
     "objectID": "10-friccion.html#ejercicios-propuestos",
     "href": "10-friccion.html#ejercicios-propuestos",
-    "title": "11  Fricción",
-    "section": "11.7 Ejercicios propuestos",
-    "text": "11.7 Ejercicios propuestos\n\nEjercicio 1.\nEjercicio 2.\nEjercicio 3.",
+    "title": "12  Fricción",
+    "section": "12.7 Ejercicios propuestos",
+    "text": "12.7 Ejercicios propuestos\n\nEjercicio 1.\nEjercicio 2.\nEjercicio 3.",
     "crumbs": [
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Fricción</span>"
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Fricción</span>"
     ]
   },
   {
     "objectID": "10-friccion.html#preguntas-de-autoevaluación",
     "href": "10-friccion.html#preguntas-de-autoevaluación",
-    "title": "11  Fricción",
-    "section": "11.8 Preguntas de autoevaluación",
-    "text": "11.8 Preguntas de autoevaluación\n\nPregunta conceptual.\nPregunta de cálculo.\nPregunta de interpretación.",
+    "title": "12  Fricción",
+    "section": "12.8 Preguntas de autoevaluación",
+    "text": "12.8 Preguntas de autoevaluación\n\nPregunta conceptual.\nPregunta de cálculo.\nPregunta de interpretación.",
     "crumbs": [
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Fricción</span>"
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Fricción</span>"
     ]
   },
   {
     "objectID": "10-friccion.html#referencias-bibliográficas",
     "href": "10-friccion.html#referencias-bibliográficas",
-    "title": "11  Fricción",
-    "section": "11.9 Referencias bibliográficas",
-    "text": "11.9 Referencias bibliográficas",
+    "title": "12  Fricción",
+    "section": "12.9 Referencias bibliográficas",
+    "text": "12.9 Referencias bibliográficas",
     "crumbs": [
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Fricción</span>"
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Fricción</span>"
     ]
   },
   {
     "objectID": "11-vigas.html",
     "href": "11-vigas.html",
-    "title": "12  Vigas",
+    "title": "13  Vigas",
     "section": "",
-    "text": "12.1 Introducción\nTexto breve que explique la importancia del tema.",
+    "text": "13.1 Introducción\nTexto breve que explique la importancia del tema.",
     "crumbs": [
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Vigas</span>"
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Vigas</span>"
     ]
   },
   {
     "objectID": "11-vigas.html#resultados-de-aprendizaje",
     "href": "11-vigas.html#resultados-de-aprendizaje",
-    "title": "12  Vigas",
-    "section": "12.2 Resultados de aprendizaje",
-    "text": "12.2 Resultados de aprendizaje\nAl finalizar este capítulo, el estudiante será capaz de:\n\nResultado 1.\nResultado 2.\nResultado 3.",
+    "title": "13  Vigas",
+    "section": "13.2 Resultados de aprendizaje",
+    "text": "13.2 Resultados de aprendizaje\nAl finalizar este capítulo, el estudiante será capaz de:\n\nResultado 1.\nResultado 2.\nResultado 3.",
     "crumbs": [
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Vigas</span>"
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Vigas</span>"
     ]
   },
   {
     "objectID": "11-vigas.html#desarrollo-teórico",
     "href": "11-vigas.html#desarrollo-teórico",
-    "title": "12  Vigas",
-    "section": "12.3 Desarrollo teórico",
-    "text": "12.3 Desarrollo teórico\nExplicación del tema con ecuaciones, figuras y conceptos clave.",
+    "title": "13  Vigas",
+    "section": "13.3 Desarrollo teórico",
+    "text": "13.3 Desarrollo teórico\nExplicación del tema con ecuaciones, figuras y conceptos clave.",
     "crumbs": [
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Vigas</span>"
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Vigas</span>"
     ]
   },
   {
     "objectID": "11-vigas.html#ejemplo-resuelto-1",
     "href": "11-vigas.html#ejemplo-resuelto-1",
-    "title": "12  Vigas",
-    "section": "12.4 Ejemplo resuelto 1",
-    "text": "12.4 Ejemplo resuelto 1\nPlanteamiento del problema.\n\n12.4.1 Datos\n\n\n12.4.2 Desarrollo\n\n\n12.4.3 Respuesta final",
+    "title": "13  Vigas",
+    "section": "13.4 Ejemplo resuelto 1",
+    "text": "13.4 Ejemplo resuelto 1\nPlanteamiento del problema.\n\n13.4.1 Datos\n\n\n13.4.2 Desarrollo\n\n\n13.4.3 Respuesta final",
     "crumbs": [
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Vigas</span>"
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Vigas</span>"
     ]
   },
   {
     "objectID": "11-vigas.html#ejemplo-resuelto-2",
     "href": "11-vigas.html#ejemplo-resuelto-2",
-    "title": "12  Vigas",
-    "section": "12.5 Ejemplo resuelto 2",
-    "text": "12.5 Ejemplo resuelto 2",
+    "title": "13  Vigas",
+    "section": "13.5 Ejemplo resuelto 2",
+    "text": "13.5 Ejemplo resuelto 2",
     "crumbs": [
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Vigas</span>"
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Vigas</span>"
     ]
   },
   {
     "objectID": "11-vigas.html#aplicaciones-técnicas",
     "href": "11-vigas.html#aplicaciones-técnicas",
-    "title": "12  Vigas",
-    "section": "12.6 Aplicaciones técnicas",
-    "text": "12.6 Aplicaciones técnicas\nRelación del tema con ingeniería civil, eléctrica, mecánica, arquitectura u otras carreras técnicas.",
+    "title": "13  Vigas",
+    "section": "13.6 Aplicaciones técnicas",
+    "text": "13.6 Aplicaciones técnicas\nRelación del tema con ingeniería civil, eléctrica, mecánica, arquitectura u otras carreras técnicas.",
     "crumbs": [
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Vigas</span>"
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Vigas</span>"
     ]
   },
   {
     "objectID": "11-vigas.html#ejercicios-propuestos",
     "href": "11-vigas.html#ejercicios-propuestos",
-    "title": "12  Vigas",
-    "section": "12.7 Ejercicios propuestos",
-    "text": "12.7 Ejercicios propuestos\n\nEjercicio 1.\nEjercicio 2.\nEjercicio 3.",
+    "title": "13  Vigas",
+    "section": "13.7 Ejercicios propuestos",
+    "text": "13.7 Ejercicios propuestos\n\nEjercicio 1.\nEjercicio 2.\nEjercicio 3.",
     "crumbs": [
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Vigas</span>"
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Vigas</span>"
     ]
   },
   {
     "objectID": "11-vigas.html#preguntas-de-autoevaluación",
     "href": "11-vigas.html#preguntas-de-autoevaluación",
-    "title": "12  Vigas",
-    "section": "12.8 Preguntas de autoevaluación",
-    "text": "12.8 Preguntas de autoevaluación\n\nPregunta conceptual.\nPregunta de cálculo.\nPregunta de interpretación.",
+    "title": "13  Vigas",
+    "section": "13.8 Preguntas de autoevaluación",
+    "text": "13.8 Preguntas de autoevaluación\n\nPregunta conceptual.\nPregunta de cálculo.\nPregunta de interpretación.",
     "crumbs": [
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Vigas</span>"
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Vigas</span>"
     ]
   },
   {
     "objectID": "11-vigas.html#referencias-bibliográficas",
     "href": "11-vigas.html#referencias-bibliográficas",
-    "title": "12  Vigas",
-    "section": "12.9 Referencias bibliográficas",
-    "text": "12.9 Referencias bibliográficas",
+    "title": "13  Vigas",
+    "section": "13.9 Referencias bibliográficas",
+    "text": "13.9 Referencias bibliográficas",
     "crumbs": [
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Vigas</span>"
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Vigas</span>"
     ]
   },
   {
     "objectID": "12-problemas-integradores.html",
     "href": "12-problemas-integradores.html",
-    "title": "13  Problemas Integradores",
+    "title": "14  Problemas Integradores",
     "section": "",
-    "text": "13.1 Introducción\nTexto breve que explique la importancia del tema.",
+    "text": "14.1 Introducción\nTexto breve que explique la importancia del tema.",
     "crumbs": [
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Problemas Integradores</span>"
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Problemas Integradores</span>"
     ]
   },
   {
     "objectID": "12-problemas-integradores.html#resultados-de-aprendizaje",
     "href": "12-problemas-integradores.html#resultados-de-aprendizaje",
-    "title": "13  Problemas Integradores",
-    "section": "13.2 Resultados de aprendizaje",
-    "text": "13.2 Resultados de aprendizaje\nAl finalizar este capítulo, el estudiante será capaz de:\n\nResultado 1.\nResultado 2.\nResultado 3.",
+    "title": "14  Problemas Integradores",
+    "section": "14.2 Resultados de aprendizaje",
+    "text": "14.2 Resultados de aprendizaje\nAl finalizar este capítulo, el estudiante será capaz de:\n\nResultado 1.\nResultado 2.\nResultado 3.",
     "crumbs": [
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Problemas Integradores</span>"
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Problemas Integradores</span>"
     ]
   },
   {
     "objectID": "12-problemas-integradores.html#desarrollo-teórico",
     "href": "12-problemas-integradores.html#desarrollo-teórico",
-    "title": "13  Problemas Integradores",
-    "section": "13.3 Desarrollo teórico",
-    "text": "13.3 Desarrollo teórico\nExplicación del tema con ecuaciones, figuras y conceptos clave.",
+    "title": "14  Problemas Integradores",
+    "section": "14.3 Desarrollo teórico",
+    "text": "14.3 Desarrollo teórico\nExplicación del tema con ecuaciones, figuras y conceptos clave.",
     "crumbs": [
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Problemas Integradores</span>"
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Problemas Integradores</span>"
     ]
   },
   {
     "objectID": "12-problemas-integradores.html#ejemplo-resuelto-1",
     "href": "12-problemas-integradores.html#ejemplo-resuelto-1",
-    "title": "13  Problemas Integradores",
-    "section": "13.4 Ejemplo resuelto 1",
-    "text": "13.4 Ejemplo resuelto 1\nPlanteamiento del problema.\n\n13.4.1 Datos\n\n\n13.4.2 Desarrollo\n\n\n13.4.3 Respuesta final",
+    "title": "14  Problemas Integradores",
+    "section": "14.4 Ejemplo resuelto 1",
+    "text": "14.4 Ejemplo resuelto 1\nPlanteamiento del problema.\n\n14.4.1 Datos\n\n\n14.4.2 Desarrollo\n\n\n14.4.3 Respuesta final",
     "crumbs": [
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Problemas Integradores</span>"
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Problemas Integradores</span>"
     ]
   },
   {
     "objectID": "12-problemas-integradores.html#ejemplo-resuelto-2",
     "href": "12-problemas-integradores.html#ejemplo-resuelto-2",
-    "title": "13  Problemas Integradores",
-    "section": "13.5 Ejemplo resuelto 2",
-    "text": "13.5 Ejemplo resuelto 2",
+    "title": "14  Problemas Integradores",
+    "section": "14.5 Ejemplo resuelto 2",
+    "text": "14.5 Ejemplo resuelto 2",
     "crumbs": [
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Problemas Integradores</span>"
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Problemas Integradores</span>"
     ]
   },
   {
     "objectID": "12-problemas-integradores.html#aplicaciones-técnicas",
     "href": "12-problemas-integradores.html#aplicaciones-técnicas",
-    "title": "13  Problemas Integradores",
-    "section": "13.6 Aplicaciones técnicas",
-    "text": "13.6 Aplicaciones técnicas\nRelación del tema con ingeniería civil, eléctrica, mecánica, arquitectura u otras carreras técnicas.",
+    "title": "14  Problemas Integradores",
+    "section": "14.6 Aplicaciones técnicas",
+    "text": "14.6 Aplicaciones técnicas\nRelación del tema con ingeniería civil, eléctrica, mecánica, arquitectura u otras carreras técnicas.",
     "crumbs": [
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Problemas Integradores</span>"
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Problemas Integradores</span>"
     ]
   },
   {
     "objectID": "12-problemas-integradores.html#ejercicios-propuestos",
     "href": "12-problemas-integradores.html#ejercicios-propuestos",
-    "title": "13  Problemas Integradores",
-    "section": "13.7 Ejercicios propuestos",
-    "text": "13.7 Ejercicios propuestos\n\nEjercicio 1.\nEjercicio 2.\nEjercicio 3.",
+    "title": "14  Problemas Integradores",
+    "section": "14.7 Ejercicios propuestos",
+    "text": "14.7 Ejercicios propuestos\n\nEjercicio 1.\nEjercicio 2.\nEjercicio 3.",
     "crumbs": [
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Problemas Integradores</span>"
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Problemas Integradores</span>"
     ]
   },
   {
     "objectID": "12-problemas-integradores.html#preguntas-de-autoevaluación",
     "href": "12-problemas-integradores.html#preguntas-de-autoevaluación",
-    "title": "13  Problemas Integradores",
-    "section": "13.8 Preguntas de autoevaluación",
-    "text": "13.8 Preguntas de autoevaluación\n\nPregunta conceptual.\nPregunta de cálculo.\nPregunta de interpretación.",
+    "title": "14  Problemas Integradores",
+    "section": "14.8 Preguntas de autoevaluación",
+    "text": "14.8 Preguntas de autoevaluación\n\nPregunta conceptual.\nPregunta de cálculo.\nPregunta de interpretación.",
     "crumbs": [
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Problemas Integradores</span>"
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Problemas Integradores</span>"
     ]
   },
   {
     "objectID": "12-problemas-integradores.html#referencias-bibliográficas",
     "href": "12-problemas-integradores.html#referencias-bibliográficas",
-    "title": "13  Problemas Integradores",
-    "section": "13.9 Referencias bibliográficas",
-    "text": "13.9 Referencias bibliográficas",
+    "title": "14  Problemas Integradores",
+    "section": "14.9 Referencias bibliográficas",
+    "text": "14.9 Referencias bibliográficas",
     "crumbs": [
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Problemas Integradores</span>"
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Problemas Integradores</span>"
     ]
   }
 ]
