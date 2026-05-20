@@ -148,5 +148,905 @@
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Título del capítulo</span>"
     ]
+  },
+  {
+    "objectID": "03-sistemas-fuerzas.html",
+    "href": "03-sistemas-fuerzas.html",
+    "title": "4  Título del capítulo",
+    "section": "",
+    "text": "4.1 Introducción\nTexto breve que explique la importancia del tema.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "03-sistemas-fuerzas.html#resultados-de-aprendizaje",
+    "href": "03-sistemas-fuerzas.html#resultados-de-aprendizaje",
+    "title": "4  Título del capítulo",
+    "section": "4.2 Resultados de aprendizaje",
+    "text": "4.2 Resultados de aprendizaje\nAl finalizar este capítulo, el estudiante será capaz de:\n\nResultado 1.\nResultado 2.\nResultado 3.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "03-sistemas-fuerzas.html#desarrollo-teórico",
+    "href": "03-sistemas-fuerzas.html#desarrollo-teórico",
+    "title": "4  Título del capítulo",
+    "section": "4.3 Desarrollo teórico",
+    "text": "4.3 Desarrollo teórico\nExplicación del tema con ecuaciones, figuras y conceptos clave.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "03-sistemas-fuerzas.html#ejemplo-resuelto-1",
+    "href": "03-sistemas-fuerzas.html#ejemplo-resuelto-1",
+    "title": "4  Título del capítulo",
+    "section": "4.4 Ejemplo resuelto 1",
+    "text": "4.4 Ejemplo resuelto 1\nPlanteamiento del problema.\n\n4.4.1 Datos\n\n\n4.4.2 Desarrollo\n\n\n4.4.3 Respuesta final",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "03-sistemas-fuerzas.html#ejemplo-resuelto-2",
+    "href": "03-sistemas-fuerzas.html#ejemplo-resuelto-2",
+    "title": "4  Título del capítulo",
+    "section": "4.5 Ejemplo resuelto 2",
+    "text": "4.5 Ejemplo resuelto 2",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "03-sistemas-fuerzas.html#aplicaciones-técnicas",
+    "href": "03-sistemas-fuerzas.html#aplicaciones-técnicas",
+    "title": "4  Título del capítulo",
+    "section": "4.6 Aplicaciones técnicas",
+    "text": "4.6 Aplicaciones técnicas\nRelación del tema con ingeniería civil, eléctrica, mecánica, arquitectura u otras carreras técnicas.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "03-sistemas-fuerzas.html#ejercicios-propuestos",
+    "href": "03-sistemas-fuerzas.html#ejercicios-propuestos",
+    "title": "4  Título del capítulo",
+    "section": "4.7 Ejercicios propuestos",
+    "text": "4.7 Ejercicios propuestos\n\nEjercicio 1.\nEjercicio 2.\nEjercicio 3.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "03-sistemas-fuerzas.html#preguntas-de-autoevaluación",
+    "href": "03-sistemas-fuerzas.html#preguntas-de-autoevaluación",
+    "title": "4  Título del capítulo",
+    "section": "4.8 Preguntas de autoevaluación",
+    "text": "4.8 Preguntas de autoevaluación\n\nPregunta conceptual.\nPregunta de cálculo.\nPregunta de interpretación.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "03-sistemas-fuerzas.html#referencias-bibliográficas",
+    "href": "03-sistemas-fuerzas.html#referencias-bibliográficas",
+    "title": "4  Título del capítulo",
+    "section": "4.9 Referencias bibliográficas",
+    "text": "4.9 Referencias bibliográficas",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "04-equilibrio-particulas.html",
+    "href": "04-equilibrio-particulas.html",
+    "title": "5  Título del capítulo",
+    "section": "",
+    "text": "5.1 Introducción\nTexto breve que explique la importancia del tema.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "04-equilibrio-particulas.html#resultados-de-aprendizaje",
+    "href": "04-equilibrio-particulas.html#resultados-de-aprendizaje",
+    "title": "5  Título del capítulo",
+    "section": "5.2 Resultados de aprendizaje",
+    "text": "5.2 Resultados de aprendizaje\nAl finalizar este capítulo, el estudiante será capaz de:\n\nResultado 1.\nResultado 2.\nResultado 3.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "04-equilibrio-particulas.html#desarrollo-teórico",
+    "href": "04-equilibrio-particulas.html#desarrollo-teórico",
+    "title": "5  Título del capítulo",
+    "section": "5.3 Desarrollo teórico",
+    "text": "5.3 Desarrollo teórico\nExplicación del tema con ecuaciones, figuras y conceptos clave.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "04-equilibrio-particulas.html#ejemplo-resuelto-1",
+    "href": "04-equilibrio-particulas.html#ejemplo-resuelto-1",
+    "title": "5  Título del capítulo",
+    "section": "5.4 Ejemplo resuelto 1",
+    "text": "5.4 Ejemplo resuelto 1\nPlanteamiento del problema.\n\n5.4.1 Datos\n\n\n5.4.2 Desarrollo\n\n\n5.4.3 Respuesta final",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "04-equilibrio-particulas.html#ejemplo-resuelto-2",
+    "href": "04-equilibrio-particulas.html#ejemplo-resuelto-2",
+    "title": "5  Título del capítulo",
+    "section": "5.5 Ejemplo resuelto 2",
+    "text": "5.5 Ejemplo resuelto 2",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "04-equilibrio-particulas.html#aplicaciones-técnicas",
+    "href": "04-equilibrio-particulas.html#aplicaciones-técnicas",
+    "title": "5  Título del capítulo",
+    "section": "5.6 Aplicaciones técnicas",
+    "text": "5.6 Aplicaciones técnicas\nRelación del tema con ingeniería civil, eléctrica, mecánica, arquitectura u otras carreras técnicas.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "04-equilibrio-particulas.html#ejercicios-propuestos",
+    "href": "04-equilibrio-particulas.html#ejercicios-propuestos",
+    "title": "5  Título del capítulo",
+    "section": "5.7 Ejercicios propuestos",
+    "text": "5.7 Ejercicios propuestos\n\nEjercicio 1.\nEjercicio 2.\nEjercicio 3.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "04-equilibrio-particulas.html#preguntas-de-autoevaluación",
+    "href": "04-equilibrio-particulas.html#preguntas-de-autoevaluación",
+    "title": "5  Título del capítulo",
+    "section": "5.8 Preguntas de autoevaluación",
+    "text": "5.8 Preguntas de autoevaluación\n\nPregunta conceptual.\nPregunta de cálculo.\nPregunta de interpretación.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "04-equilibrio-particulas.html#referencias-bibliográficas",
+    "href": "04-equilibrio-particulas.html#referencias-bibliográficas",
+    "title": "5  Título del capítulo",
+    "section": "5.9 Referencias bibliográficas",
+    "text": "5.9 Referencias bibliográficas",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "05-momento-fuerza.html",
+    "href": "05-momento-fuerza.html",
+    "title": "6  Título del capítulo",
+    "section": "",
+    "text": "6.1 Introducción\nTexto breve que explique la importancia del tema.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "05-momento-fuerza.html#resultados-de-aprendizaje",
+    "href": "05-momento-fuerza.html#resultados-de-aprendizaje",
+    "title": "6  Título del capítulo",
+    "section": "6.2 Resultados de aprendizaje",
+    "text": "6.2 Resultados de aprendizaje\nAl finalizar este capítulo, el estudiante será capaz de:\n\nResultado 1.\nResultado 2.\nResultado 3.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "05-momento-fuerza.html#desarrollo-teórico",
+    "href": "05-momento-fuerza.html#desarrollo-teórico",
+    "title": "6  Título del capítulo",
+    "section": "6.3 Desarrollo teórico",
+    "text": "6.3 Desarrollo teórico\nExplicación del tema con ecuaciones, figuras y conceptos clave.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "05-momento-fuerza.html#ejemplo-resuelto-1",
+    "href": "05-momento-fuerza.html#ejemplo-resuelto-1",
+    "title": "6  Título del capítulo",
+    "section": "6.4 Ejemplo resuelto 1",
+    "text": "6.4 Ejemplo resuelto 1\nPlanteamiento del problema.\n\n6.4.1 Datos\n\n\n6.4.2 Desarrollo\n\n\n6.4.3 Respuesta final",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "05-momento-fuerza.html#ejemplo-resuelto-2",
+    "href": "05-momento-fuerza.html#ejemplo-resuelto-2",
+    "title": "6  Título del capítulo",
+    "section": "6.5 Ejemplo resuelto 2",
+    "text": "6.5 Ejemplo resuelto 2",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "05-momento-fuerza.html#aplicaciones-técnicas",
+    "href": "05-momento-fuerza.html#aplicaciones-técnicas",
+    "title": "6  Título del capítulo",
+    "section": "6.6 Aplicaciones técnicas",
+    "text": "6.6 Aplicaciones técnicas\nRelación del tema con ingeniería civil, eléctrica, mecánica, arquitectura u otras carreras técnicas.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "05-momento-fuerza.html#ejercicios-propuestos",
+    "href": "05-momento-fuerza.html#ejercicios-propuestos",
+    "title": "6  Título del capítulo",
+    "section": "6.7 Ejercicios propuestos",
+    "text": "6.7 Ejercicios propuestos\n\nEjercicio 1.\nEjercicio 2.\nEjercicio 3.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "05-momento-fuerza.html#preguntas-de-autoevaluación",
+    "href": "05-momento-fuerza.html#preguntas-de-autoevaluación",
+    "title": "6  Título del capítulo",
+    "section": "6.8 Preguntas de autoevaluación",
+    "text": "6.8 Preguntas de autoevaluación\n\nPregunta conceptual.\nPregunta de cálculo.\nPregunta de interpretación.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "05-momento-fuerza.html#referencias-bibliográficas",
+    "href": "05-momento-fuerza.html#referencias-bibliográficas",
+    "title": "6  Título del capítulo",
+    "section": "6.9 Referencias bibliográficas",
+    "text": "6.9 Referencias bibliográficas",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "06-equilibrio-cuerpos-rigidos.html",
+    "href": "06-equilibrio-cuerpos-rigidos.html",
+    "title": "7  Título del capítulo",
+    "section": "",
+    "text": "7.1 Introducción\nTexto breve que explique la importancia del tema.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "06-equilibrio-cuerpos-rigidos.html#resultados-de-aprendizaje",
+    "href": "06-equilibrio-cuerpos-rigidos.html#resultados-de-aprendizaje",
+    "title": "7  Título del capítulo",
+    "section": "7.2 Resultados de aprendizaje",
+    "text": "7.2 Resultados de aprendizaje\nAl finalizar este capítulo, el estudiante será capaz de:\n\nResultado 1.\nResultado 2.\nResultado 3.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "06-equilibrio-cuerpos-rigidos.html#desarrollo-teórico",
+    "href": "06-equilibrio-cuerpos-rigidos.html#desarrollo-teórico",
+    "title": "7  Título del capítulo",
+    "section": "7.3 Desarrollo teórico",
+    "text": "7.3 Desarrollo teórico\nExplicación del tema con ecuaciones, figuras y conceptos clave.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "06-equilibrio-cuerpos-rigidos.html#ejemplo-resuelto-1",
+    "href": "06-equilibrio-cuerpos-rigidos.html#ejemplo-resuelto-1",
+    "title": "7  Título del capítulo",
+    "section": "7.4 Ejemplo resuelto 1",
+    "text": "7.4 Ejemplo resuelto 1\nPlanteamiento del problema.\n\n7.4.1 Datos\n\n\n7.4.2 Desarrollo\n\n\n7.4.3 Respuesta final",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "06-equilibrio-cuerpos-rigidos.html#ejemplo-resuelto-2",
+    "href": "06-equilibrio-cuerpos-rigidos.html#ejemplo-resuelto-2",
+    "title": "7  Título del capítulo",
+    "section": "7.5 Ejemplo resuelto 2",
+    "text": "7.5 Ejemplo resuelto 2",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "06-equilibrio-cuerpos-rigidos.html#aplicaciones-técnicas",
+    "href": "06-equilibrio-cuerpos-rigidos.html#aplicaciones-técnicas",
+    "title": "7  Título del capítulo",
+    "section": "7.6 Aplicaciones técnicas",
+    "text": "7.6 Aplicaciones técnicas\nRelación del tema con ingeniería civil, eléctrica, mecánica, arquitectura u otras carreras técnicas.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "06-equilibrio-cuerpos-rigidos.html#ejercicios-propuestos",
+    "href": "06-equilibrio-cuerpos-rigidos.html#ejercicios-propuestos",
+    "title": "7  Título del capítulo",
+    "section": "7.7 Ejercicios propuestos",
+    "text": "7.7 Ejercicios propuestos\n\nEjercicio 1.\nEjercicio 2.\nEjercicio 3.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "06-equilibrio-cuerpos-rigidos.html#preguntas-de-autoevaluación",
+    "href": "06-equilibrio-cuerpos-rigidos.html#preguntas-de-autoevaluación",
+    "title": "7  Título del capítulo",
+    "section": "7.8 Preguntas de autoevaluación",
+    "text": "7.8 Preguntas de autoevaluación\n\nPregunta conceptual.\nPregunta de cálculo.\nPregunta de interpretación.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "06-equilibrio-cuerpos-rigidos.html#referencias-bibliográficas",
+    "href": "06-equilibrio-cuerpos-rigidos.html#referencias-bibliográficas",
+    "title": "7  Título del capítulo",
+    "section": "7.9 Referencias bibliográficas",
+    "text": "7.9 Referencias bibliográficas",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "07-centroides.html",
+    "href": "07-centroides.html",
+    "title": "8  Título del capítulo",
+    "section": "",
+    "text": "8.1 Introducción\nTexto breve que explique la importancia del tema.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "07-centroides.html#resultados-de-aprendizaje",
+    "href": "07-centroides.html#resultados-de-aprendizaje",
+    "title": "8  Título del capítulo",
+    "section": "8.2 Resultados de aprendizaje",
+    "text": "8.2 Resultados de aprendizaje\nAl finalizar este capítulo, el estudiante será capaz de:\n\nResultado 1.\nResultado 2.\nResultado 3.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "07-centroides.html#desarrollo-teórico",
+    "href": "07-centroides.html#desarrollo-teórico",
+    "title": "8  Título del capítulo",
+    "section": "8.3 Desarrollo teórico",
+    "text": "8.3 Desarrollo teórico\nExplicación del tema con ecuaciones, figuras y conceptos clave.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "07-centroides.html#ejemplo-resuelto-1",
+    "href": "07-centroides.html#ejemplo-resuelto-1",
+    "title": "8  Título del capítulo",
+    "section": "8.4 Ejemplo resuelto 1",
+    "text": "8.4 Ejemplo resuelto 1\nPlanteamiento del problema.\n\n8.4.1 Datos\n\n\n8.4.2 Desarrollo\n\n\n8.4.3 Respuesta final",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "07-centroides.html#ejemplo-resuelto-2",
+    "href": "07-centroides.html#ejemplo-resuelto-2",
+    "title": "8  Título del capítulo",
+    "section": "8.5 Ejemplo resuelto 2",
+    "text": "8.5 Ejemplo resuelto 2",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "07-centroides.html#aplicaciones-técnicas",
+    "href": "07-centroides.html#aplicaciones-técnicas",
+    "title": "8  Título del capítulo",
+    "section": "8.6 Aplicaciones técnicas",
+    "text": "8.6 Aplicaciones técnicas\nRelación del tema con ingeniería civil, eléctrica, mecánica, arquitectura u otras carreras técnicas.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "07-centroides.html#ejercicios-propuestos",
+    "href": "07-centroides.html#ejercicios-propuestos",
+    "title": "8  Título del capítulo",
+    "section": "8.7 Ejercicios propuestos",
+    "text": "8.7 Ejercicios propuestos\n\nEjercicio 1.\nEjercicio 2.\nEjercicio 3.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "07-centroides.html#preguntas-de-autoevaluación",
+    "href": "07-centroides.html#preguntas-de-autoevaluación",
+    "title": "8  Título del capítulo",
+    "section": "8.8 Preguntas de autoevaluación",
+    "text": "8.8 Preguntas de autoevaluación\n\nPregunta conceptual.\nPregunta de cálculo.\nPregunta de interpretación.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "07-centroides.html#referencias-bibliográficas",
+    "href": "07-centroides.html#referencias-bibliográficas",
+    "title": "8  Título del capítulo",
+    "section": "8.9 Referencias bibliográficas",
+    "text": "8.9 Referencias bibliográficas",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "08-armaduras.html",
+    "href": "08-armaduras.html",
+    "title": "9  Título del capítulo",
+    "section": "",
+    "text": "9.1 Introducción\nTexto breve que explique la importancia del tema.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "08-armaduras.html#resultados-de-aprendizaje",
+    "href": "08-armaduras.html#resultados-de-aprendizaje",
+    "title": "9  Título del capítulo",
+    "section": "9.2 Resultados de aprendizaje",
+    "text": "9.2 Resultados de aprendizaje\nAl finalizar este capítulo, el estudiante será capaz de:\n\nResultado 1.\nResultado 2.\nResultado 3.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "08-armaduras.html#desarrollo-teórico",
+    "href": "08-armaduras.html#desarrollo-teórico",
+    "title": "9  Título del capítulo",
+    "section": "9.3 Desarrollo teórico",
+    "text": "9.3 Desarrollo teórico\nExplicación del tema con ecuaciones, figuras y conceptos clave.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "08-armaduras.html#ejemplo-resuelto-1",
+    "href": "08-armaduras.html#ejemplo-resuelto-1",
+    "title": "9  Título del capítulo",
+    "section": "9.4 Ejemplo resuelto 1",
+    "text": "9.4 Ejemplo resuelto 1\nPlanteamiento del problema.\n\n9.4.1 Datos\n\n\n9.4.2 Desarrollo\n\n\n9.4.3 Respuesta final",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "08-armaduras.html#ejemplo-resuelto-2",
+    "href": "08-armaduras.html#ejemplo-resuelto-2",
+    "title": "9  Título del capítulo",
+    "section": "9.5 Ejemplo resuelto 2",
+    "text": "9.5 Ejemplo resuelto 2",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "08-armaduras.html#aplicaciones-técnicas",
+    "href": "08-armaduras.html#aplicaciones-técnicas",
+    "title": "9  Título del capítulo",
+    "section": "9.6 Aplicaciones técnicas",
+    "text": "9.6 Aplicaciones técnicas\nRelación del tema con ingeniería civil, eléctrica, mecánica, arquitectura u otras carreras técnicas.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "08-armaduras.html#ejercicios-propuestos",
+    "href": "08-armaduras.html#ejercicios-propuestos",
+    "title": "9  Título del capítulo",
+    "section": "9.7 Ejercicios propuestos",
+    "text": "9.7 Ejercicios propuestos\n\nEjercicio 1.\nEjercicio 2.\nEjercicio 3.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "08-armaduras.html#preguntas-de-autoevaluación",
+    "href": "08-armaduras.html#preguntas-de-autoevaluación",
+    "title": "9  Título del capítulo",
+    "section": "9.8 Preguntas de autoevaluación",
+    "text": "9.8 Preguntas de autoevaluación\n\nPregunta conceptual.\nPregunta de cálculo.\nPregunta de interpretación.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "08-armaduras.html#referencias-bibliográficas",
+    "href": "08-armaduras.html#referencias-bibliográficas",
+    "title": "9  Título del capítulo",
+    "section": "9.9 Referencias bibliográficas",
+    "text": "9.9 Referencias bibliográficas",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "09-marcos-maquinas.html",
+    "href": "09-marcos-maquinas.html",
+    "title": "10  Título del capítulo",
+    "section": "",
+    "text": "10.1 Introducción\nTexto breve que explique la importancia del tema.",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "09-marcos-maquinas.html#resultados-de-aprendizaje",
+    "href": "09-marcos-maquinas.html#resultados-de-aprendizaje",
+    "title": "10  Título del capítulo",
+    "section": "10.2 Resultados de aprendizaje",
+    "text": "10.2 Resultados de aprendizaje\nAl finalizar este capítulo, el estudiante será capaz de:\n\nResultado 1.\nResultado 2.\nResultado 3.",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "09-marcos-maquinas.html#desarrollo-teórico",
+    "href": "09-marcos-maquinas.html#desarrollo-teórico",
+    "title": "10  Título del capítulo",
+    "section": "10.3 Desarrollo teórico",
+    "text": "10.3 Desarrollo teórico\nExplicación del tema con ecuaciones, figuras y conceptos clave.",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "09-marcos-maquinas.html#ejemplo-resuelto-1",
+    "href": "09-marcos-maquinas.html#ejemplo-resuelto-1",
+    "title": "10  Título del capítulo",
+    "section": "10.4 Ejemplo resuelto 1",
+    "text": "10.4 Ejemplo resuelto 1\nPlanteamiento del problema.\n\n10.4.1 Datos\n\n\n10.4.2 Desarrollo\n\n\n10.4.3 Respuesta final",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "09-marcos-maquinas.html#ejemplo-resuelto-2",
+    "href": "09-marcos-maquinas.html#ejemplo-resuelto-2",
+    "title": "10  Título del capítulo",
+    "section": "10.5 Ejemplo resuelto 2",
+    "text": "10.5 Ejemplo resuelto 2",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "09-marcos-maquinas.html#aplicaciones-técnicas",
+    "href": "09-marcos-maquinas.html#aplicaciones-técnicas",
+    "title": "10  Título del capítulo",
+    "section": "10.6 Aplicaciones técnicas",
+    "text": "10.6 Aplicaciones técnicas\nRelación del tema con ingeniería civil, eléctrica, mecánica, arquitectura u otras carreras técnicas.",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "09-marcos-maquinas.html#ejercicios-propuestos",
+    "href": "09-marcos-maquinas.html#ejercicios-propuestos",
+    "title": "10  Título del capítulo",
+    "section": "10.7 Ejercicios propuestos",
+    "text": "10.7 Ejercicios propuestos\n\nEjercicio 1.\nEjercicio 2.\nEjercicio 3.",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "09-marcos-maquinas.html#preguntas-de-autoevaluación",
+    "href": "09-marcos-maquinas.html#preguntas-de-autoevaluación",
+    "title": "10  Título del capítulo",
+    "section": "10.8 Preguntas de autoevaluación",
+    "text": "10.8 Preguntas de autoevaluación\n\nPregunta conceptual.\nPregunta de cálculo.\nPregunta de interpretación.",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "09-marcos-maquinas.html#referencias-bibliográficas",
+    "href": "09-marcos-maquinas.html#referencias-bibliográficas",
+    "title": "10  Título del capítulo",
+    "section": "10.9 Referencias bibliográficas",
+    "text": "10.9 Referencias bibliográficas",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "10-friccion.html",
+    "href": "10-friccion.html",
+    "title": "11  Título del capítulo",
+    "section": "",
+    "text": "11.1 Introducción\nTexto breve que explique la importancia del tema.",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "10-friccion.html#resultados-de-aprendizaje",
+    "href": "10-friccion.html#resultados-de-aprendizaje",
+    "title": "11  Título del capítulo",
+    "section": "11.2 Resultados de aprendizaje",
+    "text": "11.2 Resultados de aprendizaje\nAl finalizar este capítulo, el estudiante será capaz de:\n\nResultado 1.\nResultado 2.\nResultado 3.",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "10-friccion.html#desarrollo-teórico",
+    "href": "10-friccion.html#desarrollo-teórico",
+    "title": "11  Título del capítulo",
+    "section": "11.3 Desarrollo teórico",
+    "text": "11.3 Desarrollo teórico\nExplicación del tema con ecuaciones, figuras y conceptos clave.",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "10-friccion.html#ejemplo-resuelto-1",
+    "href": "10-friccion.html#ejemplo-resuelto-1",
+    "title": "11  Título del capítulo",
+    "section": "11.4 Ejemplo resuelto 1",
+    "text": "11.4 Ejemplo resuelto 1\nPlanteamiento del problema.\n\n11.4.1 Datos\n\n\n11.4.2 Desarrollo\n\n\n11.4.3 Respuesta final",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "10-friccion.html#ejemplo-resuelto-2",
+    "href": "10-friccion.html#ejemplo-resuelto-2",
+    "title": "11  Título del capítulo",
+    "section": "11.5 Ejemplo resuelto 2",
+    "text": "11.5 Ejemplo resuelto 2",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "10-friccion.html#aplicaciones-técnicas",
+    "href": "10-friccion.html#aplicaciones-técnicas",
+    "title": "11  Título del capítulo",
+    "section": "11.6 Aplicaciones técnicas",
+    "text": "11.6 Aplicaciones técnicas\nRelación del tema con ingeniería civil, eléctrica, mecánica, arquitectura u otras carreras técnicas.",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "10-friccion.html#ejercicios-propuestos",
+    "href": "10-friccion.html#ejercicios-propuestos",
+    "title": "11  Título del capítulo",
+    "section": "11.7 Ejercicios propuestos",
+    "text": "11.7 Ejercicios propuestos\n\nEjercicio 1.\nEjercicio 2.\nEjercicio 3.",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "10-friccion.html#preguntas-de-autoevaluación",
+    "href": "10-friccion.html#preguntas-de-autoevaluación",
+    "title": "11  Título del capítulo",
+    "section": "11.8 Preguntas de autoevaluación",
+    "text": "11.8 Preguntas de autoevaluación\n\nPregunta conceptual.\nPregunta de cálculo.\nPregunta de interpretación.",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "10-friccion.html#referencias-bibliográficas",
+    "href": "10-friccion.html#referencias-bibliográficas",
+    "title": "11  Título del capítulo",
+    "section": "11.9 Referencias bibliográficas",
+    "text": "11.9 Referencias bibliográficas",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "11-vigas.html",
+    "href": "11-vigas.html",
+    "title": "12  Título del capítulo",
+    "section": "",
+    "text": "12.1 Introducción\nTexto breve que explique la importancia del tema.",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "11-vigas.html#resultados-de-aprendizaje",
+    "href": "11-vigas.html#resultados-de-aprendizaje",
+    "title": "12  Título del capítulo",
+    "section": "12.2 Resultados de aprendizaje",
+    "text": "12.2 Resultados de aprendizaje\nAl finalizar este capítulo, el estudiante será capaz de:\n\nResultado 1.\nResultado 2.\nResultado 3.",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "11-vigas.html#desarrollo-teórico",
+    "href": "11-vigas.html#desarrollo-teórico",
+    "title": "12  Título del capítulo",
+    "section": "12.3 Desarrollo teórico",
+    "text": "12.3 Desarrollo teórico\nExplicación del tema con ecuaciones, figuras y conceptos clave.",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "11-vigas.html#ejemplo-resuelto-1",
+    "href": "11-vigas.html#ejemplo-resuelto-1",
+    "title": "12  Título del capítulo",
+    "section": "12.4 Ejemplo resuelto 1",
+    "text": "12.4 Ejemplo resuelto 1\nPlanteamiento del problema.\n\n12.4.1 Datos\n\n\n12.4.2 Desarrollo\n\n\n12.4.3 Respuesta final",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "11-vigas.html#ejemplo-resuelto-2",
+    "href": "11-vigas.html#ejemplo-resuelto-2",
+    "title": "12  Título del capítulo",
+    "section": "12.5 Ejemplo resuelto 2",
+    "text": "12.5 Ejemplo resuelto 2",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "11-vigas.html#aplicaciones-técnicas",
+    "href": "11-vigas.html#aplicaciones-técnicas",
+    "title": "12  Título del capítulo",
+    "section": "12.6 Aplicaciones técnicas",
+    "text": "12.6 Aplicaciones técnicas\nRelación del tema con ingeniería civil, eléctrica, mecánica, arquitectura u otras carreras técnicas.",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "11-vigas.html#ejercicios-propuestos",
+    "href": "11-vigas.html#ejercicios-propuestos",
+    "title": "12  Título del capítulo",
+    "section": "12.7 Ejercicios propuestos",
+    "text": "12.7 Ejercicios propuestos\n\nEjercicio 1.\nEjercicio 2.\nEjercicio 3.",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "11-vigas.html#preguntas-de-autoevaluación",
+    "href": "11-vigas.html#preguntas-de-autoevaluación",
+    "title": "12  Título del capítulo",
+    "section": "12.8 Preguntas de autoevaluación",
+    "text": "12.8 Preguntas de autoevaluación\n\nPregunta conceptual.\nPregunta de cálculo.\nPregunta de interpretación.",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "11-vigas.html#referencias-bibliográficas",
+    "href": "11-vigas.html#referencias-bibliográficas",
+    "title": "12  Título del capítulo",
+    "section": "12.9 Referencias bibliográficas",
+    "text": "12.9 Referencias bibliográficas",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "12-problemas-integradores.html",
+    "href": "12-problemas-integradores.html",
+    "title": "13  Título del capítulo",
+    "section": "",
+    "text": "13.1 Introducción\nTexto breve que explique la importancia del tema.",
+    "crumbs": [
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "12-problemas-integradores.html#resultados-de-aprendizaje",
+    "href": "12-problemas-integradores.html#resultados-de-aprendizaje",
+    "title": "13  Título del capítulo",
+    "section": "13.2 Resultados de aprendizaje",
+    "text": "13.2 Resultados de aprendizaje\nAl finalizar este capítulo, el estudiante será capaz de:\n\nResultado 1.\nResultado 2.\nResultado 3.",
+    "crumbs": [
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "12-problemas-integradores.html#desarrollo-teórico",
+    "href": "12-problemas-integradores.html#desarrollo-teórico",
+    "title": "13  Título del capítulo",
+    "section": "13.3 Desarrollo teórico",
+    "text": "13.3 Desarrollo teórico\nExplicación del tema con ecuaciones, figuras y conceptos clave.",
+    "crumbs": [
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "12-problemas-integradores.html#ejemplo-resuelto-1",
+    "href": "12-problemas-integradores.html#ejemplo-resuelto-1",
+    "title": "13  Título del capítulo",
+    "section": "13.4 Ejemplo resuelto 1",
+    "text": "13.4 Ejemplo resuelto 1\nPlanteamiento del problema.\n\n13.4.1 Datos\n\n\n13.4.2 Desarrollo\n\n\n13.4.3 Respuesta final",
+    "crumbs": [
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "12-problemas-integradores.html#ejemplo-resuelto-2",
+    "href": "12-problemas-integradores.html#ejemplo-resuelto-2",
+    "title": "13  Título del capítulo",
+    "section": "13.5 Ejemplo resuelto 2",
+    "text": "13.5 Ejemplo resuelto 2",
+    "crumbs": [
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "12-problemas-integradores.html#aplicaciones-técnicas",
+    "href": "12-problemas-integradores.html#aplicaciones-técnicas",
+    "title": "13  Título del capítulo",
+    "section": "13.6 Aplicaciones técnicas",
+    "text": "13.6 Aplicaciones técnicas\nRelación del tema con ingeniería civil, eléctrica, mecánica, arquitectura u otras carreras técnicas.",
+    "crumbs": [
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "12-problemas-integradores.html#ejercicios-propuestos",
+    "href": "12-problemas-integradores.html#ejercicios-propuestos",
+    "title": "13  Título del capítulo",
+    "section": "13.7 Ejercicios propuestos",
+    "text": "13.7 Ejercicios propuestos\n\nEjercicio 1.\nEjercicio 2.\nEjercicio 3.",
+    "crumbs": [
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "12-problemas-integradores.html#preguntas-de-autoevaluación",
+    "href": "12-problemas-integradores.html#preguntas-de-autoevaluación",
+    "title": "13  Título del capítulo",
+    "section": "13.8 Preguntas de autoevaluación",
+    "text": "13.8 Preguntas de autoevaluación\n\nPregunta conceptual.\nPregunta de cálculo.\nPregunta de interpretación.",
+    "crumbs": [
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "12-problemas-integradores.html#referencias-bibliográficas",
+    "href": "12-problemas-integradores.html#referencias-bibliográficas",
+    "title": "13  Título del capítulo",
+    "section": "13.9 Referencias bibliográficas",
+    "text": "13.9 Referencias bibliográficas",
+    "crumbs": [
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
   }
 ]

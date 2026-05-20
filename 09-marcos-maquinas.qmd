@@ -1,0 +1,47 @@
+# Título del capítulo
+
+## Introducción
+
+Texto breve que explique la importancia del tema.
+
+## Resultados de aprendizaje
+
+Al finalizar este capítulo, el estudiante será capaz de:
+
+- Resultado 1.
+- Resultado 2.
+- Resultado 3.
+
+## Desarrollo teórico
+
+Explicación del tema con ecuaciones, figuras y conceptos clave.
+
+## Ejemplo resuelto 1
+
+Planteamiento del problema.
+
+### Datos
+
+### Desarrollo
+
+### Respuesta final
+
+## Ejemplo resuelto 2
+
+## Aplicaciones técnicas
+
+Relación del tema con ingeniería civil, eléctrica, mecánica, arquitectura u otras carreras técnicas.
+
+## Ejercicios propuestos
+
+1. Ejercicio 1.
+2. Ejercicio 2.
+3. Ejercicio 3.
+
+## Preguntas de autoevaluación
+
+1. Pregunta conceptual.
+2. Pregunta de cálculo.
+3. Pregunta de interpretación.
+
+## Referencias bibliográficas
