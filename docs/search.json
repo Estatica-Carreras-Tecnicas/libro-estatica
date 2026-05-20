@@ -58,5 +58,95 @@
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Fundamentos de la Estática</span>"
     ]
+  },
+  {
+    "objectID": "02-vectores.html",
+    "href": "02-vectores.html",
+    "title": "3  Título del capítulo",
+    "section": "",
+    "text": "3.1 Introducción\nTexto breve que explique la importancia del tema.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "02-vectores.html#resultados-de-aprendizaje",
+    "href": "02-vectores.html#resultados-de-aprendizaje",
+    "title": "3  Título del capítulo",
+    "section": "3.2 Resultados de aprendizaje",
+    "text": "3.2 Resultados de aprendizaje\nAl finalizar este capítulo, el estudiante será capaz de:\n\nResultado 1.\nResultado 2.\nResultado 3.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "02-vectores.html#desarrollo-teórico",
+    "href": "02-vectores.html#desarrollo-teórico",
+    "title": "3  Título del capítulo",
+    "section": "3.3 Desarrollo teórico",
+    "text": "3.3 Desarrollo teórico\nExplicación del tema con ecuaciones, figuras y conceptos clave.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "02-vectores.html#ejemplo-resuelto-1",
+    "href": "02-vectores.html#ejemplo-resuelto-1",
+    "title": "3  Título del capítulo",
+    "section": "3.4 Ejemplo resuelto 1",
+    "text": "3.4 Ejemplo resuelto 1\nPlanteamiento del problema.\n\n3.4.1 Datos\n\n\n3.4.2 Desarrollo\n\n\n3.4.3 Respuesta final",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "02-vectores.html#ejemplo-resuelto-2",
+    "href": "02-vectores.html#ejemplo-resuelto-2",
+    "title": "3  Título del capítulo",
+    "section": "3.5 Ejemplo resuelto 2",
+    "text": "3.5 Ejemplo resuelto 2",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "02-vectores.html#aplicaciones-técnicas",
+    "href": "02-vectores.html#aplicaciones-técnicas",
+    "title": "3  Título del capítulo",
+    "section": "3.6 Aplicaciones técnicas",
+    "text": "3.6 Aplicaciones técnicas\nRelación del tema con ingeniería civil, eléctrica, mecánica, arquitectura u otras carreras técnicas.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "02-vectores.html#ejercicios-propuestos",
+    "href": "02-vectores.html#ejercicios-propuestos",
+    "title": "3  Título del capítulo",
+    "section": "3.7 Ejercicios propuestos",
+    "text": "3.7 Ejercicios propuestos\n\nEjercicio 1.\nEjercicio 2.\nEjercicio 3.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "02-vectores.html#preguntas-de-autoevaluación",
+    "href": "02-vectores.html#preguntas-de-autoevaluación",
+    "title": "3  Título del capítulo",
+    "section": "3.8 Preguntas de autoevaluación",
+    "text": "3.8 Preguntas de autoevaluación\n\nPregunta conceptual.\nPregunta de cálculo.\nPregunta de interpretación.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
+  },
+  {
+    "objectID": "02-vectores.html#referencias-bibliográficas",
+    "href": "02-vectores.html#referencias-bibliográficas",
+    "title": "3  Título del capítulo",
+    "section": "3.9 Referencias bibliográficas",
+    "text": "3.9 Referencias bibliográficas",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Título del capítulo</span>"
+    ]
   }
 ]
