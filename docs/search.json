@@ -1,0 +1,62 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Estática para Carreras Técnicas",
+    "section": "",
+    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#objetivo-del-libro",
+    "href": "index.html#objetivo-del-libro",
+    "title": "Estática para Carreras Técnicas",
+    "section": "Objetivo del libro",
+    "text": "Objetivo del libro\nFortalecer el aprendizaje de la Estática mediante un recurso educativo abierto, estructurado por capítulos, con enfoque técnico y aplicación directa en carreras de ingeniería y tecnología.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#licencia",
+    "href": "index.html#licencia",
+    "title": "Estática para Carreras Técnicas",
+    "section": "Licencia",
+    "text": "Licencia\nEsta obra se publicará como recurso educativo abierto bajo una licencia Creative Commons.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "01-fundamentos.html",
+    "href": "01-fundamentos.html",
+    "title": "1  Fundamentos de la Estática",
+    "section": "",
+    "text": "1.1 Introducción\nLa Estática es una rama de la mecánica que estudia las condiciones bajo las cuales los cuerpos permanecen en equilibrio. Su aplicación es fundamental en el análisis de estructuras, máquinas, elementos mecánicos y sistemas técnicos sometidos a fuerzas.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Fundamentos de la Estática</span>"
+    ]
+  },
+  {
+    "objectID": "01-fundamentos.html#resultados-de-aprendizaje",
+    "href": "01-fundamentos.html#resultados-de-aprendizaje",
+    "title": "1  Fundamentos de la Estática",
+    "section": "1.2 Resultados de aprendizaje",
+    "text": "1.2 Resultados de aprendizaje\nAl finalizar este capítulo, el estudiante será capaz de:\n\nReconocer el campo de estudio de la Estática.\nDiferenciar conceptos básicos como fuerza, cuerpo rígido, equilibrio y sistema mecánico.\nIdentificar la importancia de los diagramas de cuerpo libre.\nRelacionar la Estática con problemas reales de ingeniería.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Fundamentos de la Estática</span>"
+    ]
+  },
+  {
+    "objectID": "01-fundamentos.html#contenidos",
+    "href": "01-fundamentos.html#contenidos",
+    "title": "1  Fundamentos de la Estática",
+    "section": "1.3 Contenidos",
+    "text": "1.3 Contenidos\n\nConcepto de mecánica.\nDivisión de la mecánica.\nConcepto de Estática.\nCuerpo rígido.\nFuerza.\nEquilibrio.\nDiagrama de cuerpo libre.\nAplicaciones técnicas.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Fundamentos de la Estática</span>"
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+# Fundamentos de la Estática
+
+## Introducción
+
+La Estática es una rama de la mecánica que estudia las condiciones bajo las cuales los cuerpos permanecen en equilibrio. Su aplicación es fundamental en el análisis de estructuras, máquinas, elementos mecánicos y sistemas técnicos sometidos a fuerzas.
+
+## Resultados de aprendizaje
+
+Al finalizar este capítulo, el estudiante será capaz de:
+
+- Reconocer el campo de estudio de la Estática.
+- Diferenciar conceptos básicos como fuerza, cuerpo rígido, equilibrio y sistema mecánico.
+- Identificar la importancia de los diagramas de cuerpo libre.
+- Relacionar la Estática con problemas reales de ingeniería.
+
+## Contenidos
+
+1. Concepto de mecánica.
+2. División de la mecánica.
+3. Concepto de Estática.
+4. Cuerpo rígido.
+5. Fuerza.
+6. Equilibrio.
+7. Diagrama de cuerpo libre.
+8. Aplicaciones técnicas.

@@ -1,0 +1,50 @@
+{
+  "index.qmd": {
+    "index.html": "0a0fec7f"
+  },
+  "intro.qmd": {
+    "intro.html": "50f0383f"
+  },
+  "summary.qmd": {
+    "summary.html": "b20a4b7c"
+  },
+  "references.qmd": {
+    "references.html": "15b70762"
+  },
+  "01-fundamentos.qmd": {
+    "01-fundamentos.html": "3cc98f1b"
+  },
+  "02-vectores.qmd": {
+    "02-vectores.html": "00c45731"
+  },
+  "03-sistemas-fuerzas.qmd": {
+    "03-sistemas-fuerzas.html": "41d211ed"
+  },
+  "04-equilibrio-particulas.qmd": {
+    "04-equilibrio-particulas.html": "7bd83b1a"
+  },
+  "05-momento-fuerza.qmd": {
+    "05-momento-fuerza.html": "6fd08545"
+  },
+  "06-equilibrio-cuerpos-rigidos.qmd": {
+    "06-equilibrio-cuerpos-rigidos.html": "68f6496d"
+  },
+  "07-centroides.qmd": {
+    "07-centroides.html": "d81d9a9b"
+  },
+  "08-armaduras.qmd": {
+    "08-armaduras.html": "60a80ffe"
+  },
+  "09-marcos-maquinas.qmd": {
+    "09-marcos-maquinas.html": "f74e580d"
+  },
+  "10-friccion.qmd": {
+    "10-friccion.html": "558623ed"
+  },
+  "11-vigas.qmd": {
+    "11-vigas.html": "1e7aafdc"
+  },
+  "12-problemas-integradores.qmd": {
+    "12-problemas-integradores.html": "103aeb54"
+  }
+}

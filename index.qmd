@@ -1,0 +1,19 @@
+# Preface {.unnumbered}
+
+This is a Quarto book.
+
+To learn more about Quarto books visit <https://quarto.org/docs/books>.
+
+# Presentación
+
+Este libro digital abierto de Estática ha sido desarrollado como un recurso académico colaborativo para estudiantes de carreras técnicas e ingeniería.
+
+El propósito del libro es presentar los fundamentos de la Estática de manera clara, progresiva y aplicada, incorporando teoría, ejemplos resueltos, ejercicios propuestos, diagramas, aplicaciones técnicas y problemas contextualizados.
+
+## Objetivo del libro
+
+Fortalecer el aprendizaje de la Estática mediante un recurso educativo abierto, estructurado por capítulos, con enfoque técnico y aplicación directa en carreras de ingeniería y tecnología.
+
+## Licencia
+
+Esta obra se publicará como recurso educativo abierto bajo una licencia Creative Commons.
