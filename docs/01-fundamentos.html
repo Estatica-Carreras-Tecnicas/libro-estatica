@@ -73,6 +73,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -206,7 +235,22 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#introducción" id="toc-introducción" class="nav-link active" data-scroll-target="#introducción"><span class="header-section-number">2.1</span> Introducción</a></li>
   <li><a href="#resultados-de-aprendizaje" id="toc-resultados-de-aprendizaje" class="nav-link" data-scroll-target="#resultados-de-aprendizaje"><span class="header-section-number">2.2</span> Resultados de aprendizaje</a></li>
-  <li><a href="#contenidos" id="toc-contenidos" class="nav-link" data-scroll-target="#contenidos"><span class="header-section-number">2.3</span> Contenidos</a></li>
+  <li><a href="#la-mecánica-y-sus-ramas" id="toc-la-mecánica-y-sus-ramas" class="nav-link" data-scroll-target="#la-mecánica-y-sus-ramas"><span class="header-section-number">2.3</span> La mecánica y sus ramas</a></li>
+  <li><a href="#qué-estudia-la-estática" id="toc-qué-estudia-la-estática" class="nav-link" data-scroll-target="#qué-estudia-la-estática"><span class="header-section-number">2.4</span> ¿Qué estudia la Estática?</a></li>
+  <li><a href="#concepto-de-cuerpo-rígido" id="toc-concepto-de-cuerpo-rígido" class="nav-link" data-scroll-target="#concepto-de-cuerpo-rígido"><span class="header-section-number">2.5</span> Concepto de cuerpo rígido</a></li>
+  <li><a href="#fuerza-y-sistema-de-fuerzas" id="toc-fuerza-y-sistema-de-fuerzas" class="nav-link" data-scroll-target="#fuerza-y-sistema-de-fuerzas"><span class="header-section-number">2.6</span> Fuerza y sistema de fuerzas</a></li>
+  <li><a href="#equilibrio" id="toc-equilibrio" class="nav-link" data-scroll-target="#equilibrio"><span class="header-section-number">2.7</span> Equilibrio</a></li>
+  <li><a href="#diagrama-de-cuerpo-libre" id="toc-diagrama-de-cuerpo-libre" class="nav-link" data-scroll-target="#diagrama-de-cuerpo-libre"><span class="header-section-number">2.8</span> Diagrama de cuerpo libre</a></li>
+  <li><a href="#aplicaciones-de-la-estática-en-carreras-técnicas" id="toc-aplicaciones-de-la-estática-en-carreras-técnicas" class="nav-link" data-scroll-target="#aplicaciones-de-la-estática-en-carreras-técnicas"><span class="header-section-number">2.9</span> Aplicaciones de la Estática en carreras técnicas</a></li>
+  <li><a href="#ejemplo-introductorio-resuelto" id="toc-ejemplo-introductorio-resuelto" class="nav-link" data-scroll-target="#ejemplo-introductorio-resuelto"><span class="header-section-number">2.10</span> Ejemplo introductorio resuelto</a>
+  <ul class="collapse">
+  <li><a href="#enunciado" id="toc-enunciado" class="nav-link" data-scroll-target="#enunciado"><span class="header-section-number">2.10.1</span> Enunciado</a></li>
+  <li><a href="#datos" id="toc-datos" class="nav-link" data-scroll-target="#datos"><span class="header-section-number">2.10.2</span> Datos</a></li>
+  <li><a href="#desarrollo" id="toc-desarrollo" class="nav-link" data-scroll-target="#desarrollo"><span class="header-section-number">2.10.3</span> Desarrollo</a></li>
+  <li><a href="#respuesta-final" id="toc-respuesta-final" class="nav-link" data-scroll-target="#respuesta-final"><span class="header-section-number">2.10.4</span> Respuesta final</a></li>
+  </ul></li>
+  <li><a href="#ejercicios-propuestos" id="toc-ejercicios-propuestos" class="nav-link" data-scroll-target="#ejercicios-propuestos"><span class="header-section-number">2.11</span> Ejercicios propuestos</a></li>
+  <li><a href="#preguntas-de-autoevaluación" id="toc-preguntas-de-autoevaluación" class="nav-link" data-scroll-target="#preguntas-de-autoevaluación"><span class="header-section-number">2.12</span> Preguntas de autoevaluación</a></li>
   </ul>
 </nav>
     </div>
@@ -234,29 +278,162 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="introducción" class="level2" data-number="2.1">
 <h2 data-number="2.1" class="anchored" data-anchor-id="introducción"><span class="header-section-number">2.1</span> Introducción</h2>
-<p>La Estática es una rama de la mecánica que estudia las condiciones bajo las cuales los cuerpos permanecen en equilibrio. Su aplicación es fundamental en el análisis de estructuras, máquinas, elementos mecánicos y sistemas técnicos sometidos a fuerzas. kjhkhk</p>
+<p>La Estática es una rama de la mecánica que estudia las condiciones bajo las cuales los cuerpos permanecen en equilibrio cuando se encuentran sometidos a la acción de fuerzas. Su importancia en las carreras técnicas radica en que permite analizar estructuras, elementos mecánicos, sistemas de soporte, máquinas simples y componentes constructivos antes de que estos sean diseñados, fabricados o instalados.</p>
+<p>En el campo de la ingeniería y la tecnología, la Estática constituye una base fundamental para asignaturas posteriores como Resistencia de Materiales, Mecánica de Materiales, Diseño Estructural, Mecánica de Fluidos, Análisis de Máquinas y Diseño de Elementos Mecánicos.</p>
 </section>
 <section id="resultados-de-aprendizaje" class="level2" data-number="2.2">
 <h2 data-number="2.2" class="anchored" data-anchor-id="resultados-de-aprendizaje"><span class="header-section-number">2.2</span> Resultados de aprendizaje</h2>
 <p>Al finalizar este capítulo, el estudiante será capaz de:</p>
 <ul>
-<li>Reconocer el campo de estudio de la Estática.</li>
-<li>Diferenciar conceptos básicos como fuerza, cuerpo rígido, equilibrio y sistema mecánico.</li>
-<li>Identificar la importancia de los diagramas de cuerpo libre.</li>
-<li>Relacionar la Estática con problemas reales de ingeniería.</li>
+<li>Reconocer el campo de estudio de la Estática dentro de la mecánica.</li>
+<li>Diferenciar conceptos básicos como fuerza, cuerpo rígido, sistema de fuerzas y equilibrio.</li>
+<li>Identificar la función del diagrama de cuerpo libre en el análisis de problemas técnicos.</li>
+<li>Relacionar los principios de la Estática con situaciones reales de carreras técnicas e ingeniería.</li>
 </ul>
 </section>
-<section id="contenidos" class="level2" data-number="2.3">
-<h2 data-number="2.3" class="anchored" data-anchor-id="contenidos"><span class="header-section-number">2.3</span> Contenidos</h2>
+<section id="la-mecánica-y-sus-ramas" class="level2" data-number="2.3">
+<h2 data-number="2.3" class="anchored" data-anchor-id="la-mecánica-y-sus-ramas"><span class="header-section-number">2.3</span> La mecánica y sus ramas</h2>
+<p>La mecánica es la rama de la física que estudia el comportamiento de los cuerpos cuando se encuentran sometidos a fuerzas. De manera general, se divide en mecánica de cuerpos rígidos, mecánica de cuerpos deformables y mecánica de fluidos.</p>
+<p>Dentro de la mecánica de cuerpos rígidos se distinguen dos áreas principales:</p>
 <ol type="1">
-<li>Concepto de mecánica.</li>
-<li>División de la mecánica.</li>
-<li>Concepto de Estática.</li>
-<li>Cuerpo rígido.</li>
-<li>Fuerza.</li>
-<li>Equilibrio.</li>
-<li>Diagrama de cuerpo libre.</li>
-<li>Aplicaciones técnicas.</li>
+<li><strong>Estática:</strong> estudia cuerpos en equilibrio.</li>
+<li><strong>Dinámica:</strong> estudia cuerpos en movimiento acelerado.</li>
+</ol>
+<p>La Estática se concentra en aquellos casos donde las fuerzas que actúan sobre un cuerpo no producen movimiento traslacional ni rotacional.</p>
+</section>
+<section id="qué-estudia-la-estática" class="level2" data-number="2.4">
+<h2 data-number="2.4" class="anchored" data-anchor-id="qué-estudia-la-estática"><span class="header-section-number">2.4</span> ¿Qué estudia la Estática?</h2>
+<p>La Estática estudia las condiciones necesarias para que un cuerpo permanezca en equilibrio. Esto implica que la suma de fuerzas y la suma de momentos que actúan sobre el cuerpo deben ser iguales a cero.</p>
+<p>De forma general, para un cuerpo en equilibrio se cumple:</p>
+<p><span class="math display">\[
+\sum F_x = 0
+\]</span></p>
+<p><span class="math display">\[
+\sum F_y = 0
+\]</span></p>
+<p><span class="math display">\[
+\sum M = 0
+\]</span></p>
+<p>Estas ecuaciones permiten calcular reacciones, tensiones, fuerzas internas y condiciones de estabilidad en sistemas técnicos.</p>
+</section>
+<section id="concepto-de-cuerpo-rígido" class="level2" data-number="2.5">
+<h2 data-number="2.5" class="anchored" data-anchor-id="concepto-de-cuerpo-rígido"><span class="header-section-number">2.5</span> Concepto de cuerpo rígido</h2>
+<p>Un cuerpo rígido es un modelo idealizado de un objeto en el cual se supone que las distancias entre sus puntos no cambian, aunque actúen fuerzas externas sobre él. En la realidad, todos los cuerpos se deforman en alguna medida, pero en muchos problemas de Estática esas deformaciones son pequeñas y pueden despreciarse.</p>
+<p>Este modelo simplifica el análisis de vigas, columnas, armaduras, máquinas, herramientas, bastidores y elementos estructurales.</p>
+</section>
+<section id="fuerza-y-sistema-de-fuerzas" class="level2" data-number="2.6">
+<h2 data-number="2.6" class="anchored" data-anchor-id="fuerza-y-sistema-de-fuerzas"><span class="header-section-number">2.6</span> Fuerza y sistema de fuerzas</h2>
+<p>Una fuerza es una interacción capaz de modificar el estado de reposo o movimiento de un cuerpo, o producir deformaciones. En Estática, una fuerza se representa mediante un vector, por lo que posee:</p>
+<ul>
+<li>Magnitud.</li>
+<li>Dirección.</li>
+<li>Sentido.</li>
+<li>Punto de aplicación.</li>
+</ul>
+<p>Un sistema de fuerzas es el conjunto de fuerzas que actúan simultáneamente sobre un cuerpo. Estos sistemas pueden ser coplanares, espaciales, concurrentes, paralelos o generales, según su disposición geométrica.</p>
+</section>
+<section id="equilibrio" class="level2" data-number="2.7">
+<h2 data-number="2.7" class="anchored" data-anchor-id="equilibrio"><span class="header-section-number">2.7</span> Equilibrio</h2>
+<p>Un cuerpo se encuentra en equilibrio cuando no presenta aceleración lineal ni aceleración angular. En términos prácticos, esto significa que el cuerpo permanece en reposo o se mueve con velocidad constante.</p>
+<p>Para el análisis de estructuras y elementos técnicos, el caso más frecuente es el equilibrio estático, donde el cuerpo permanece en reposo.</p>
+</section>
+<section id="diagrama-de-cuerpo-libre" class="level2" data-number="2.8">
+<h2 data-number="2.8" class="anchored" data-anchor-id="diagrama-de-cuerpo-libre"><span class="header-section-number">2.8</span> Diagrama de cuerpo libre</h2>
+<p>El diagrama de cuerpo libre es una representación gráfica simplificada de un cuerpo aislado, en la cual se muestran todas las fuerzas externas que actúan sobre él. Es una herramienta fundamental para resolver problemas de Estática.</p>
+<p>Un buen diagrama de cuerpo libre debe incluir:</p>
+<ul>
+<li>El cuerpo o elemento aislado.</li>
+<li>Las fuerzas aplicadas.</li>
+<li>Las reacciones en los apoyos.</li>
+<li>El peso propio, si es relevante.</li>
+<li>Las dimensiones necesarias para calcular momentos.</li>
+<li>El sistema de ejes de referencia.</li>
+</ul>
+</section>
+<section id="aplicaciones-de-la-estática-en-carreras-técnicas" class="level2" data-number="2.9">
+<h2 data-number="2.9" class="anchored" data-anchor-id="aplicaciones-de-la-estática-en-carreras-técnicas"><span class="header-section-number">2.9</span> Aplicaciones de la Estática en carreras técnicas</h2>
+<p>La Estática se aplica en numerosos contextos técnicos, entre ellos:</p>
+<ul>
+<li>Análisis de vigas, columnas y armaduras.</li>
+<li>Diseño preliminar de estructuras metálicas y de hormigón.</li>
+<li>Verificación de soportes, ménsulas y anclajes.</li>
+<li>Estudio de escaleras, grúas, poleas y máquinas simples.</li>
+<li>Evaluación de estabilidad en elementos constructivos.</li>
+<li>Cálculo de reacciones en apoyos.</li>
+<li>Análisis de cargas en cubiertas, puentes y plataformas.</li>
+</ul>
+</section>
+<section id="ejemplo-introductorio-resuelto" class="level2" data-number="2.10">
+<h2 data-number="2.10" class="anchored" data-anchor-id="ejemplo-introductorio-resuelto"><span class="header-section-number">2.10</span> Ejemplo introductorio resuelto</h2>
+<section id="enunciado" class="level3" data-number="2.10.1">
+<h3 data-number="2.10.1" class="anchored" data-anchor-id="enunciado"><span class="header-section-number">2.10.1</span> Enunciado</h3>
+<p>Una viga simplemente apoyada de 4 m de longitud soporta una carga puntual de 10 kN ubicada en el centro. Determine las reacciones verticales en los apoyos.</p>
+</section>
+<section id="datos" class="level3" data-number="2.10.2">
+<h3 data-number="2.10.2" class="anchored" data-anchor-id="datos"><span class="header-section-number">2.10.2</span> Datos</h3>
+<ul>
+<li>Longitud de la viga: <span class="math inline">\(L = 4 \, m\)</span></li>
+<li>Carga puntual: <span class="math inline">\(P = 10 \, kN\)</span></li>
+<li>Ubicación de la carga: centro de la viga</li>
+<li>Apoyos: uno en cada extremo</li>
+</ul>
+</section>
+<section id="desarrollo" class="level3" data-number="2.10.3">
+<h3 data-number="2.10.3" class="anchored" data-anchor-id="desarrollo"><span class="header-section-number">2.10.3</span> Desarrollo</h3>
+<p>Por simetría, la carga se distribuye por igual entre los dos apoyos.</p>
+<p>La condición de equilibrio vertical es:</p>
+<p><span class="math display">\[
+\sum F_y = 0
+\]</span></p>
+<p>Por tanto:</p>
+<p><span class="math display">\[
+R_A + R_B - P = 0
+\]</span></p>
+<p>Como la carga está en el centro:</p>
+<p><span class="math display">\[
+R_A = R_B
+\]</span></p>
+<p>Entonces:</p>
+<p><span class="math display">\[
+2R_A = 10
+\]</span></p>
+<p><span class="math display">\[
+R_A = 5 \, kN
+\]</span></p>
+<p>Por lo tanto:</p>
+<p><span class="math display">\[
+R_B = 5 \, kN
+\]</span></p>
+</section>
+<section id="respuesta-final" class="level3" data-number="2.10.4">
+<h3 data-number="2.10.4" class="anchored" data-anchor-id="respuesta-final"><span class="header-section-number">2.10.4</span> Respuesta final</h3>
+<p>Las reacciones verticales en los apoyos son:</p>
+<p><span class="math display">\[
+R_A = 5 \, kN
+\]</span></p>
+<p><span class="math display">\[
+R_B = 5 \, kN
+\]</span></p>
+</section>
+</section>
+<section id="ejercicios-propuestos" class="level2" data-number="2.11">
+<h2 data-number="2.11" class="anchored" data-anchor-id="ejercicios-propuestos"><span class="header-section-number">2.11</span> Ejercicios propuestos</h2>
+<ol type="1">
+<li><p>Una caja de 200 N se encuentra en reposo sobre una superficie horizontal. Dibuje el diagrama de cuerpo libre e identifique las fuerzas que actúan sobre ella.</p></li>
+<li><p>Una viga de 6 m de longitud soporta una carga puntual de 12 kN ubicada en el centro. Determine las reacciones en los apoyos.</p></li>
+<li><p>Un letrero se encuentra sostenido por dos cables inclinados. Identifique las fuerzas que deberían representarse en el diagrama de cuerpo libre.</p></li>
+<li><p>Explique con sus propias palabras por qué el diagrama de cuerpo libre es importante antes de resolver un problema de Estática.</p></li>
+<li><p>Mencione tres aplicaciones de la Estática en su carrera técnica o de ingeniería.</p></li>
+</ol>
+</section>
+<section id="preguntas-de-autoevaluación" class="level2" data-number="2.12">
+<h2 data-number="2.12" class="anchored" data-anchor-id="preguntas-de-autoevaluación"><span class="header-section-number">2.12</span> Preguntas de autoevaluación</h2>
+<ol type="1">
+<li><p>¿Cuál es la diferencia entre Estática y Dinámica?</p></li>
+<li><p>¿Qué condiciones debe cumplir un cuerpo para encontrarse en equilibrio?</p></li>
+<li><p>¿Por qué una fuerza se representa como un vector?</p></li>
+<li><p>¿Qué información debe contener un diagrama de cuerpo libre?</p></li>
+<li><p>¿Por qué el modelo de cuerpo rígido es útil en el análisis técnico?</p></li>
 </ol>
 
 
