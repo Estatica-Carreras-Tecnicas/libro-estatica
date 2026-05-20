@@ -1,0 +1,20 @@
+# Créditos del proyecto
+
+## Título de la obra
+
+**Estática para Carreras Técnicas: Fundamentos, aplicaciones y problemas resueltos**
+
+## Equipo autoral
+
+- Docente 1
+- Docente 2
+- Docente 3
+- Docente 4
+
+## Descripción del proyecto
+
+Este libro digital abierto ha sido desarrollado como un recurso educativo para fortalecer el aprendizaje de la Estática en carreras técnicas y de ingeniería.
+
+## Licencia
+
+Esta obra se distribuye como recurso educativo abierto bajo una licencia Creative Commons.

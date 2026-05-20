@@ -1,0 +1,55 @@
+# Título del capítulo
+
+## Introducción
+
+[Escribir una introducción breve del tema.]
+
+## Resultados de aprendizaje
+
+Al finalizar este capítulo, el estudiante será capaz de:
+
+- [Resultado de aprendizaje 1.]
+- [Resultado de aprendizaje 2.]
+- [Resultado de aprendizaje 3.]
+
+## Desarrollo teórico
+
+[Desarrollar los conceptos principales del capítulo.]
+
+## Ejemplo resuelto
+
+### Enunciado
+
+[Plantear el problema.]
+
+### Datos
+
+[Colocar los datos conocidos.]
+
+### Desarrollo
+
+[Resolver paso a paso.]
+
+### Respuesta final
+
+[Presentar la respuesta con unidades.]
+
+## Aplicaciones técnicas
+
+[Explicar aplicaciones del tema en carreras técnicas.]
+
+## Ejercicios propuestos
+
+1. [Ejercicio propuesto 1.]
+2. [Ejercicio propuesto 2.]
+3. [Ejercicio propuesto 3.]
+
+## Preguntas de autoevaluación
+
+1. [Pregunta 1.]
+2. [Pregunta 2.]
+3. [Pregunta 3.]
+
+## Referencias bibliográficas
+
+[Colocar referencias si corresponde.]
