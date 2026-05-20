@@ -3,6 +3,7 @@
 ## Introducción
 
 La Estática es una rama de la mecánica que estudia las condiciones bajo las cuales los cuerpos permanecen en equilibrio. Su aplicación es fundamental en el análisis de estructuras, máquinas, elementos mecánicos y sistemas técnicos sometidos a fuerzas.
+kjhkhk
 
 ## Resultados de aprendizaje
 
